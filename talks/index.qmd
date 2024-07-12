@@ -1,0 +1,77 @@
+---
+title: Talks
+---
+
+What do you get when you cross a chatterbox and a scientist? A whole lot of talks!
+
+Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (bio)stats to the conversation! Here are some of my recent and upcoming talks. Slides are available either by clicking on the links in the entries or the GIF wall!
+
+:::: {.columns}
+
+::: {.column width="75%"}
+
+## Coming Soon to Theaters
+
+1. **Invited Talk**: Misclassification Challenges in Quantifying the Relationship Between Diabetes and Local Access to Healthy Food </br> *Department of Mathematics, University of Scranton* - *March 2025*
+
+2. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* </br> *October 2024*
+
+3. **Guest Lecture**: Stats can be fun, I swear! </br> *PSYCH1130, Cornell University* - *September 2024*
+
+## Highlight Reel
+
+1. **Master's Thesis Defense**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *Wake Forest University* - *April 2024* </br>
+[Slides](materials/ms_defense_slides.pdf)
+  
+2. **Contributed Talk**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *ENAR Spring Meeting* - *March 2024* </br>
+[Slides](materials/enar_24_slides.pdf)
+
+3. **Contributed Poster**: Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television </br> Couples and Episode Ratings </br> *Women in Statistics and Data Science* - *October 2023* </br>
+[Poster](materials/wsds_23_slides.pdf)
+
+4. **Contributed Poster**: Music Feature Classification: Using Techniques of Machine Learning to Detect Genre </br> *MAA MathFest* - *August 2022* </br>
+[Poster](materials/mathfest_thesis_poster.pdf)
+
+5. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Joint Mathematics Meetings* - *April 2022* </br>
+[Poster](materials/cc_reu_poster.pdf)
+
+6. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *SACNAS NDiSTEM Conference* - *August 2021*
+</br>
+[Poster](materials/cc_reu_poster.pdf)
+
+7. **Featured Talk**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Mount Stuart Mathematics Seminar Series* - *August 2021* </br>
+[Slides](materials/cc_reu_slides.pdf)
+
+8. **Featured Talk**: A Puck Above the Rest: The Effects of New Data on 2020 NHL Draft Decisions </br> *Carnegie Mellon Sports Analytics Conference* - *October 2020* </br>
+[Slides](https://stat.cmu.edu/cmsac/conference/2020/assets/pdf/nhl_draft_update.pdf)
+
+
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+
+### GIFs Galore!
+
+   <img src="enar_24_slides.gif" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://drive.google.com/file/d/15DsLbAocr2M5NbAco--F-wF6fiGalV2v/view', 'blank');"//>
+
+  <img src="ms_defense_slides.gif" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://drive.google.com/file/d/1sc6r38JTv37dQ4RFLifeN0bEfekIt_de/view', 'blank');"//>
+  
+
+:::
+
+::::
+
+
+
+
+
+
+
+
+
+

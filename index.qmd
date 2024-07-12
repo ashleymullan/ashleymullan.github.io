@@ -1,0 +1,73 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: "https://twitter.com/ashley___mullan"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/ashleymullan"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/ashley-mullan-b478b6168"
+    - icon: envelope
+      text: Email
+      href: "mailto:ashley.e.mullan@vanderbilt.edu"  
+---
+
+::: {#about-block}
+:::
+
+# 👋 Hi, and welcome to my website! 
+
+I'm **Ashley**, a Ph.D. student in the <a href="https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics" target="_blank">Department of Biostatistics</a> at Vanderbilt University Medical Center. I recently earned my master's degree from the <a href="https://stats.wfu.edu" target="_blank">Department of Statistical Sciences</a> at Wake Forest University, where I worked with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access. I 💖 working with data and talking about sitcoms and romcoms, sometimes even [at the same time](https://drive.google.com/file/d/1bRwA-At8TQ853uAKEudn6Ol84eFd4LJp/view?usp=sharing)!
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+## Interests
+
+📏 Measurement Error 
+
+🔍 Missing Data 
+
+🍎 Social Determinants of Health 
+
+🖥 R Package Development ️
+
+🎤 Karaoke 
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+## Education
+
+🎓 Ph.D. in Biostatistics - Expected 2029 <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">Vanderbilt University </span>
+
+🎓 M.S. in Statistics - 2024 <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">Wake Forest University </span>
+
+🎓 Certificate in Data Science - 2024 <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">Wake Forest University </span>
+
+🎓 B.S. in Applied Mathematics - 2022 <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">University of Scranton</span>
+
+🎓 B.A. in Philosophy - 2022 <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">University of Scranton</span>
+
+
+:::
+
+::::
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;"> button of the day </a>
+</div>
+```
+

@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "What do you get when you cross a chatterbox and a scientist? A whole lot of talks!\nWhether I’m in a classroom, conference, or corporate meeting, I 💖 bringing (bio)stats to the conversation! Here are some of my recent and upcoming talks. Slides are available either by clicking on the links in the entries or the GIF wall!"
+  },
+  {
+    "objectID": "talks/index.html#coming-soon-to-theaters",
+    "href": "talks/index.html#coming-soon-to-theaters",
+    "title": "Talks",
+    "section": "Coming Soon to Theaters",
+    "text": "Coming Soon to Theaters\n\nInvited Talk: Misclassification Challenges in Quantifying the Relationship Between Diabetes and Local Access to Healthy Food  Department of Mathematics, University of Scranton - March 2025\nInvited Talk: For Better or For Worse: The First Kiss  Effect on TV Ratings  International Day of Women in Statistics and Data Science  October 2024\nGuest Lecture: Stats can be fun, I swear!  PSYCH1130, Cornell University - September 2024"
+  },
+  {
+    "objectID": "talks/index.html#highlight-reel",
+    "href": "talks/index.html#highlight-reel",
+    "title": "Talks",
+    "section": "Highlight Reel",
+    "text": "Highlight Reel\n\nMaster’s Thesis Defense: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food  Wake Forest University - April 2024  Slides\nContributed Talk: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food  ENAR Spring Meeting - March 2024  Slides\nContributed Poster: Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television  Couples and Episode Ratings  Women in Statistics and Data Science - October 2023  Poster\nContributed Poster: Music Feature Classification: Using Techniques of Machine Learning to Detect Genre  MAA MathFest - August 2022  Poster\nContributed Poster: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning  Joint Mathematics Meetings - April 2022  Poster\nContributed Poster: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning  SACNAS NDiSTEM Conference - August 2021  Poster\nFeatured Talk: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning  Mount Stuart Mathematics Seminar Series - August 2021  Slides\nFeatured Talk: A Puck Above the Rest: The Effects of New Data on 2020 NHL Draft Decisions  Carnegie Mellon Sports Analytics Conference - October 2020  Slides"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ashley E. Mullan",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Ashley E. Mullan",
+    "section": "Interests",
+    "text": "Interests\n📏 Measurement Error\n🔍 Missing Data\n🍎 Social Determinants of Health\n🖥 R Package Development ️\n🎤 Karaoke"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ashley E. Mullan",
+    "section": "Education",
+    "text": "Education\n🎓 Ph.D. in Biostatistics - Expected 2029       Vanderbilt University \n🎓 M.S. in Statistics - 2024       Wake Forest University \n🎓 Certificate in Data Science - 2024       Wake Forest University \n🎓 B.S. in Applied Mathematics - 2022       University of Scranton\n🎓 B.A. in Philosophy - 2022       University of Scranton"
+  },
+  {
+    "objectID": "software/index.html",
+    "href": "software/index.html",
+    "title": "Software",
+    "section": "",
+    "text": "Ever since I first tried to learn C++ after school in the 11th grade, I’ve come a long way in the coding world! These days, I enjoy contributing to and trying out new R packages.\n\n\n\nI’m a Contributor\nPOSSUM has functions implementing the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master’s thesis, while ThemePark has functions implementing a ggplot theme I designed in honor of Taylor Swift’s newest album, The Tortured Poets Department. Click the hex stickers to check them out!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Big Fan\n🎨 ggplot2\n🗺️ tidycensus\n🎵 gm\n🤣 memer"
+  },
+  {
+    "objectID": "blog/posts/hello_world/index.html",
+    "href": "blog/posts/hello_world/index.html",
+    "title": "Do it for the plot! The Outline",
+    "section": "",
+    "text": "👋 Hi, I’m Ashley! I’m so excited to launch this blog, Do It For the Plot."
+  },
+  {
+    "objectID": "blog/posts/hello_world/index.html#whats-with-the-title",
+    "href": "blog/posts/hello_world/index.html#whats-with-the-title",
+    "title": "Do it for the plot! The Outline",
+    "section": "What’s with the title?",
+    "text": "What’s with the title?\nWhen my college friend group at the University of Scranton was staring down a new adventure, one of my roommates would always tell us to do it for the plot. I always interpreted that line to mean that we were contributing to the collection of silly stories we’d always have in our back pocket. I’m a big fan of the silly story, although my circle might note (correctly) that I simply cannot tell one linearly. Linear is hard, whether of the storytelling or the algebra variety.\nLuckily, I get to play with many mediums of storytelling these days. Of the infinite possible ways I could get a point across, I find myself circling back to two in particular. The first? Music 🎶. From blasting CDs in the car with my mom on the way home from preschool to playing and singing in chamber ensembles in grad school twenty years later, I’ve been a musician for as long as I can remember. My music brain picks out patterns before the rest of my brain catches up, and I’m a huge fan of sending lyric snippets from whatever I’m listening to on Apple Music to succinctly capture a vibe.\nSpeaking of succinctness, anyone who’s ever worked on a word problem in a math or stat class with me knows my other favorite way to organize my thoughts. Have you ever heard someone say that a picture’s worth a thousand words? As a (bio)statistician and data science fan, I’d even go one step farther. Specifically, a plot is worth a thousand words! I am a HUGE fan of charts, graphs, and other forms of data visualization. In fact, the superlative my lab awarded me after finishing my master’s degree was Most likely to invest an hour debating plot palette perfection! Everyone in the Wake Forest Department of Statistics knew that if they wanted to talk about anything ggplot related, I was their girl.\nTo circle back to my original point, Do It For the Plot will slowly become an eccentric collection of cool things I encounter and dream up on my journey to become a (bio)statistician extraordinaire, with fun tangents about music, books, data viz, and bad jokes along the way."
+  },
+  {
+    "objectID": "blog/posts/hello_world/index.html#time-for-a-plot-twist",
+    "href": "blog/posts/hello_world/index.html#time-for-a-plot-twist",
+    "title": "Do it for the plot! The Outline",
+    "section": "Time for a plot twist 📖",
+    "text": "Time for a plot twist 📖\nIf there’s one thing I’m known for, it’s committing to a bit. To keep with the plot theme, I’ll be ending every post with a ~PLOT TWIST~! These plot twists will probably be completely unrelated to the main point that I’ve been thinking about as I write up my thoughts. For my first plot twist, check out the Wikipedia page on punctuation. As a double major in applied math and philosophy, I took five logic electives, many of which belonged to the symbolic variety. Those classes made me VERY familiar with the tilde (~), a character often used to denote negation. My roommate and I were discussing the modern use of the tilde to denote emphasis, kind of like how I did when I introduced the plot twist. I know, that’s a weird discussion for a random Tuesday afternoon. It happened to come up after I used tildes that way on impulse in our text conversation earlier that day, and she decided to Google the symbol to see if Wikipedia had captured that usage yet. It turns out that there actually is an addendum about it! According to Wikipedia, “Among other uses, the symbol has been used on social media to indicate sarcasm. It may also be used online, especially in informal writing such as fanfiction, to convey a cutesy, playful, or flirtatious tone.” Who knew?\nAnyway, the funniest thing to come out of that rabbithole was my new favorite punctuation symbol, the triple asterisk. Did you know that putting three asterisks in a row makes a new symbol, the dinkus? I certainly didn’t, and it’s now cemented up there with the aglet in the random knowledge portion of my brain. Hopefully, my trivia team will need that fact someday!"
+  },
+  {
+    "objectID": "blog/posts/hello_world/index.html#wrap-up",
+    "href": "blog/posts/hello_world/index.html#wrap-up",
+    "title": "Do it for the plot! The Outline",
+    "section": "Wrap Up",
+    "text": "Wrap Up\nThat’s a wrap for today on Do It For the Plot! I’m looking forward to building this project out, and I appreciate y’all taking the time to join me. Until next time!"
+  },
+  {
+    "objectID": "blog/posts/tv_ratings/index.html",
+    "href": "blog/posts/tv_ratings/index.html",
+    "title": "So no one told me life was gonna be this way…",
+    "section": "",
+    "text": "One of my most toxic traits is my tendency to speed up my streaming to as fast as double the intended pace. That being said, I get through a lot of TV in my (limited) free time. During the pandemic, my best friend introduced me to New Girl, which became (and still is) a large part of my personality. I have a (potentially unhealthy) obsession with Season 2 Episode 15, which I will spoil as the episode where Nick and Jess first kissed on screen. During my time at Wake Forest, Sarah Lotspeich and I realized that assessing this episode was the PERFECT setting for me to learn how interrupted time series works. We turned this project first into a poster at the 2023 WSDS Conference (see my talks page) and later an article for Significance Magazine’s 2024 early career writing competition. I was so excited to find out that my article was highly commended by the editors, so I turned it into a blog post! Huge thanks to Sarah for her help pulling this project together."
+  },
+  {
+    "objectID": "blog/posts/tv_ratings/index.html#for-better-or-for-worse-the-first-kiss-effect-on-television-ratings",
+    "href": "blog/posts/tv_ratings/index.html#for-better-or-for-worse-the-first-kiss-effect-on-television-ratings",
+    "title": "So no one told me life was gonna be this way…",
+    "section": "For Better or For Worse: The First Kiss Effect on Television Ratings",
+    "text": "For Better or For Worse: The First Kiss Effect on Television Ratings\n\nAbstract\nMy day job might be (bio)statistics, but at my core, I’m a sucker for love. Picture your favorite “will they or won’t they” TV couple, you know, the one that you just KNOW is destined to be together forever. From the first episode, they’ve got this insane chemistry that just doesn’t quit. Their dynamic constantly shifts between almost-romance and friendship, and you’re just sitting there, binge watching, waiting for them to just KISS ALREADY! For me, that couple is Nick Miller and Jess Day from the show New Girl, and that big moment (the one we’ve all been waiting for) comes in Season 2, Episode 15. For Nick and Jess, and other couples like them, the first kiss is a pivotal moment in their character arcs, and it defines the trajectory of the plot. If you’re like me, you’re hooked. You feel the magic and are excited to see the drama coming up next, so you grab the popcorn and don’t leave the couch for at least another half season. Other people might be susceptible to the Zeigarnik effect. These folks see that kiss as the completion of the story arc. They’ll then get bored and either immediately abandon the show or slowly fizzle out when they lose interest. This dichotomy of behavior poses an interesting question to those data-minded Netflix fans. We can certainly track and quantify our own behavior to uncover our true feelings about love, or at least how we feel when we see it on the screen. Unfortunately, assessing our own behavior doesn’t yield insight about the world at large. As statisticians, our goal is to capture the feelings of the hivemind. Luckily, we have a nice way to quantify how viewers feel about television, ratings! Now, we can discover the effect of a couple’s first kiss on a show’s ratings.\n\n\nThe Preface: Pardon Our Interruption\nOur pursuit of quantifying this first kiss effect, or KE, falls into a space called causal inference. Causal questions are particularly tricky to answer, because they require us to be able to say that Event A (the couple finally kisses for the first time) directly causes Event B (a change in the show ratings) without any interference from other events happening under the hood. Luckily, statisticians have some tools that can help with these types of questions.\nOne such tool is the interrupted time series (ITS) model (Bernal et. al). ITS models allow us to look at the trend in a sequence of observations over time and the effect of an interruption on that trend. The model takes advantage of a hypothetical situation called the counterfactual, an alternate timeline where the interruption never happens.\nSuppose we think that viewers, on average, feel the same way I do about Nick and Jess’s on-screen kiss in New Girl. Then, in the real timeline, Nick and Jess’s kiss in Season 2 would interrupt the ratings trend and force the ratings to go up and stay up. However, in our alternate timeline (the counterfactual), Nick and Jess never kissed in Season 2, and the trend would stay exactly the same. To figure out the KE, we would look at the difference between our counterfactual and our reality. Specifically, we’re looking to estimate the trend before the kiss, the immediate change caused by the kiss, and the new trend after the kiss.\n\n\nThe Pilot: Meet the Couples\nTo use the ITS model, we first need some data. Luckily, the internet is full of TV fans that have strong opinions about love. After scouring the internet for lists of these “will they or won’t they” duos, we end up with 137 couples from 108 different shows going all the way from Cheers and Battlestar Galactica in the late 1970s and early 1980s to Never Have I Ever and Abbott Elementary in the last few years. For each of these couples, we grab data from the Internet Movie Database (IMDb) and Wikipedia. Specifically, we record the season and episode of the first kiss, the couple’s internet popularity (in mentions), the number of seasons in the show, and when the show premiered. We then identify the 20 most-mentioned “will they or won’t they” couples across all the lists, and further pull episode ratings for the full run.\nBefore fitting the model to answer our question about the KE, it is always a good idea to look at our data and check for any interesting patterns. I had two specific questions in mind!\nQuestion 1: When did shows start using this trope? The “will they or won’t they” trope isn’t new, with an early example being Pride and Prejudice by Jane Austen in 1813. However, the couples most cited on the internet all appear in the last 50 years’ worth of television, and most of them appear on shows that premiered within the last 30 years.\n\n\n\n\nShows from as early as the 1980s that feature the trope are still popular today. The highest bars are years where the most shows with ``will they or won’t they’’ couples premiered.\n\n\nQuestion 2: When are producers caving to fan pressure and finally airing episodes with first kisses? It is not fair to directly compare a three-season show, like Shadowhunters, against a show that goes on for over twenty seasons, like Grey’s Anatomy. Instead, we measure when the kiss occurs by computing the percentage of the show’s run that appears after the kiss. We notice that with the exception of shows premiering in the 1990s, these kisses come fairly early in their shows’ runs. Across all decades (1980s–2010s), typical couples (technically, the median) had their first kiss with over two-thirds of the show left to go.\n\n\n\n\nMost shows had a lot of plot still to cover after their couples’ first kisses. Does this mean the ratings were high enough to save the show? You can find the “typical” (read: median) couples by looking for the horizontal line in the middle of each decade’s box.\n\n\n\n\nThe Cliffhanger: So, what happened?\nNow, we fit our ITS model to estimate the KE. There are actually two ways to think about interpreting what we find. First, if we fit separate models to each couple’s data individually, we can look at the effect of one specific couple’s first kiss on their show’s ratings. Second, if we fit one model to all of the shows’ data together, we can look at the kiss effect \\(\\sim\\)on average\\(\\sim\\) rather than with respect to a specific couple.\nLet’s first look at a few examples of individual couples and shows, starting with Nick and Jess from New Girl. In the pre-kiss portion of the show (episodes represented by blue dots in the plot), we see ratings going slightly up, and the counterfactual (the dotted line) would be if that trend persisted across the entire show. Sadly, the real ratings seem to fall prey to the Zeigarnik effect. They are expected to immediately drop by 0.1 rating points after the first kiss (episodes represented by pink dots in the plot) and decrease by 0.003 rating points episode-on-episode for the remainder of the show’s run, never to recover (the right piece of the solid line). However, like good statisticians, we quantify our uncertainty with confidence intervals before totally giving up on Nick and Jess.\n\n\n\n\nDid New Girl go downhill after Nick and Jess’s first kiss? Each point represents an episode of the show, where higher points received higher ratings. The solid lines represent the actual trend, whereas the dashed line represents the counterfactual trend.\n\n\nThe confidence intervals give a plausible range of where our kiss effect might actually land, after accounting for any quirks in the data. In short, a confidence interval adds some wiggle room around the model’s guess at the trend in ratings. Different levels of confidence are possible, depending on how willing we are to accept the possibility of being wrong about the true size of the first kiss effect, but 95% is commonly used. In our case, the 95% confidence interval for the immediate interruption in New Girl episode ratings following Nick and Jess’s first kiss is between a 0.34 decrease and a 0.14 increase in ratings. Thus, despite the slight visible jump when going from before to after the kiss, there is not enough evidence in our data to support that one truly exists. Both increases and decreases in ratings fall into our uncertainty range. Also, despite the plot showing a switch from an episode-on-episode increase before the kiss to a decrease after, the data similarly cannot exclude the possibility of no change at all.\nThis effect looks a little different for Ross and Rachel from Friends. Here, there’s basically no immediate jump in the ratings after their first kiss (an expected decrease of just 0.05 rating points), but they still do start dropping (barely, by less than a thousandth of a rating point) episode-on-episode after. After checking the 95% confidence interval on the immediate interruption here, the jump could be anywhere from a 0.33 decrease to a 0.42 increase in ratings, so there’s still a possibility that there wasn’t one. %Compared to Nick and Jess, there’s a possibility of a slightly larger immediate increase in ratings for Ross and Rachel. We again observe a noticeable difference between reality (the solid line) and the counterfactual (the dashed line), meaning that Ross and Rachel’s kiss also impacted the post-kiss ratings.\n\n\n\n\nRoss and Rachel’s story isn’t over after they kiss. Each point represents an episode of the show, where higher points received higher ratings. The solid lines represent the actual trend, whereas the dashed line represents the counterfactual trend.\n\n\nFinally, we look at the overall KE across the 20 most-mentioned couples. When we zoom out to consider the average effect of a first kiss, we see a somewhat similar effect to that of either of the individual couples’. The ratings slowly build until the kiss and then exhibit a very slight immediate drop. That drop is followed by a slow decline in ratings lasting until the end of the show’s run. However, the (dotted) counterfactual looks much more similar to the real timeline than its single-couple counterparts. Since we have more data when we look at the overall first kiss effect, the 95% confidence interval is a little tighter (i.e., the data support possibilities that are less extreme). Plausible values for the immediate jump in the ratings now range from a 0.23 decrease to a 0.05 increase. Sadly, it looks like the Zeigarnik effect may be in play, even on average, but there is still the possibility of no interruption or even a bump in ratings! This time, the 95% confidence interval on the immediate ratings interruption lies between a 0.22 decrease and a 0.05 increase. As with our two example couples, we can’t say for certain in which direction the ratings jump given the data.\n\n\n\n\nWe can get a better sense of the average KE by zooming out to look at all twenty of our top couples together. Look at the difference in direction on that counterfactual!\n\n\n\n\nThe finale: Take note, spin-offs\nUnfortunately, it seems like my TV habits differ from the rest of the world. While I can’t wait to see how a love story plays out, the Zeigarnik effect kicks in quickly for other viewers. Show ratings start to decline after the “will they or won’t they” couple finally has their first kiss, and in many cases they continue to decline for the rest of the show, never to attain pre-kiss levels. If Hollywood wants to keep their ratings high and viewers interested, they may want to consider either standing strong and delaying these moments to the end of the show or introducing another dramatic storyline to the plot. So much for love, right?"
+  },
+  {
+    "objectID": "blog/posts/tv_ratings/index.html#time-for-a-plot-twist",
+    "href": "blog/posts/tv_ratings/index.html#time-for-a-plot-twist",
+    "title": "So no one told me life was gonna be this way…",
+    "section": "Time for a plot twist 📖",
+    "text": "Time for a plot twist 📖\nYou can’t have TV without popcorn, right? A friend of mine recently visited me and brought the coolest tin of gourmet popcorn with him. Of course, that got me thinking about popcorn! Here are some fun facts about popcorn. Did you know that January 19th is National Popcorn Day? I didn’t!\nThanks for reading, and enjoy your popcorn! 🍿🍿🍿"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Do it for the plot!",
+    "section": "",
+    "text": "Welcome to “Do it for the plot!” I’m always rambling about strange side projects I do for either the fun of it or as a way to pick up new skills. Check them out!"
+  },
+  {
+    "objectID": "blog/index.html#warning-its-about-to-get-punny",
+    "href": "blog/index.html#warning-its-about-to-get-punny",
+    "title": "Do it for the plot!",
+    "section": "🚨 Warning, it’s about to get punny!",
+    "text": "🚨 Warning, it’s about to get punny!"
+  },
+  {
+    "objectID": "blog/index.html#see-i-can-do-stats-and-watch-netflix-at-the-same-time",
+    "href": "blog/index.html#see-i-can-do-stats-and-watch-netflix-at-the-same-time",
+    "title": "Do it for the plot!",
+    "section": "🍿 See, I can do stats and watch Netflix at the same time!",
+    "text": "🍿 See, I can do stats and watch Netflix at the same time!"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Ashley E. Mullan",
+    "section": "",
+    "text": "Download my CV!"
+  }
+]

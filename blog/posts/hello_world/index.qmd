@@ -1,0 +1,28 @@
+---
+title: "Do it for the plot! The Outline"
+format:
+  html:
+    self-contained: true
+---
+
+👋 Hi, I'm Ashley! I'm so excited to launch this blog, *Do It For the Plot*. 
+
+## What's with the title?
+
+When my college friend group at the University of Scranton was staring down a new adventure, one of my roommates would always tell us to do it for the plot. I always interpreted that line to mean that we were contributing to the collection of silly stories we'd always have in our back pocket. I'm a big fan of the silly story, although my circle might note (correctly) that I simply cannot tell one linearly. Linear is hard, whether of the storytelling or the algebra variety.
+
+Luckily, I get to play with many mediums of storytelling these days. Of the infinite possible ways I could get a point across, I find myself circling back to two in particular. The first? Music 🎶. From blasting CDs in the car with my mom on the way home from preschool to playing and singing in chamber ensembles in grad school twenty years later, I've been a musician for as long as I can remember. My music brain picks out patterns before the rest of my brain catches up, and I'm a huge fan of sending lyric snippets from whatever I'm listening to on Apple Music to succinctly capture a vibe. 
+
+Speaking of succinctness, anyone who's ever worked on a word problem in a math or stat class with me knows my other favorite way to organize my thoughts. Have you ever heard someone say that a picture's worth a thousand words? As a (bio)statistician and data science fan, I'd even go one step farther. Specifically, a plot is worth a thousand words! I am a HUGE fan of charts, graphs, and other forms of data visualization. In fact, the superlative my lab awarded me after finishing my master's degree was *Most likely to invest an hour debating plot palette perfection*! Everyone in the Wake Forest Department of Statistics knew that if they wanted to talk about anything ggplot related, I was their girl. 
+
+To circle back to my original point, *Do It For the Plot* will slowly become an eccentric collection of cool things I encounter and dream up on my journey to become a (bio)statistician extraordinaire, with fun tangents about music, books, data viz, and bad jokes along the way. 
+
+## Time for a plot twist 📖
+
+If there's one thing I'm known for, it's committing to a bit. To keep with the plot theme, I'll be ending every post with a **~PLOT TWIST~**! These plot twists will probably be completely unrelated to the main point that I've been thinking about as I write up my thoughts. For my first plot twist, check out the [Wikipedia page on punctuation](https://en.wikipedia.org/wiki/List_of_typographical_symbols_and_punctuation_marks). As a double major in applied math and philosophy, I took five logic electives, many of which belonged to the symbolic variety. Those classes made me VERY familiar with the tilde (~), a character often used to denote negation. My roommate and I were discussing the modern use of the tilde to denote emphasis, kind of like how I did when I introduced the plot twist. I know, that's a weird discussion for a random Tuesday afternoon. It happened to come up after I used tildes that way on impulse in our text conversation earlier that day, and she decided to Google the symbol to see if Wikipedia had captured that usage yet. It turns out that there actually is an addendum about it! According to Wikipedia, "Among other uses, the symbol has been used on social media to indicate sarcasm. It may also be used online, especially in informal writing such as fanfiction, to convey a cutesy, playful, or flirtatious tone." Who knew? 
+
+Anyway, the funniest thing to come out of that rabbithole was my new favorite punctuation symbol, the triple asterisk. Did you know that putting three asterisks in a row makes a new symbol, the dinkus? I certainly didn't, and it's now cemented up there with the aglet in the random knowledge portion of my brain. Hopefully, my trivia team will need that fact someday!
+
+## Wrap Up
+
+That's a wrap for today on *Do It For the Plot*! I'm looking forward to building this project out, and I appreciate y'all taking the time to join me. Until next time!
