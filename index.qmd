@@ -65,9 +65,4 @@ I'm **Ashley**, a Ph.D. student in the <a href="https://www.vumc.org/biostatisti
 
 ::::
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;"> button of the day </a>
-</div>
-```
 
