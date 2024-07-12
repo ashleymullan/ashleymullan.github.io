@@ -1,3 +1,5 @@
-# Welcome to my website repo!
+# Welcome to my personal website!
 
-This repository was developed using the template available at <https://www.marvinschmitt.com/blog/website-tutorial-quarto/>.
+This repository contains all files needed to build my website, which is available at <ashleymullan.github.io>.
+
+Thank you to [Marvin Schmitt](https://www.marvinschmitt.com/blog/website-tutorial-quarto/) for his wonderful Quarto template and tutorial.
