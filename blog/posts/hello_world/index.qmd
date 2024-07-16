@@ -1,5 +1,7 @@
 ---
 title: "Do it for the plot! The Outline"
+date: "05/08/2024"
+author: "Ashley E. Mullan"
 format:
   html:
     self-contained: true

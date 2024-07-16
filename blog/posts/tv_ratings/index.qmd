@@ -1,5 +1,7 @@
 ---
 title: "So no one told me life was gonna be this way..."
+date: "07/12/2024"
+author: "Ashley E. Mullan"
 format:
   html:
     self-contained: true
@@ -34,7 +36,7 @@ Before fitting the model to answer our question about the KE, it is always a goo
 </br>
 
 <figure>
-  <img src="show_premiere_year.png" style="height: 60%; width: 60%; object-fit: contain"/>
+  <img src="show_premiere_year.png" style="height: 80%; width: 80%; object-fit: contain"/>
   <figcaption>Shows from as early as the 1980s that feature the trope are still popular today. The highest bars are years where the most shows with ``will they or won't they'' couples premiered.</figcaption>
 </figure>
 
@@ -43,7 +45,7 @@ Before fitting the model to answer our question about the KE, it is always a goo
 </br>
 
 <figure>
-  <img src="show_premiere_decade.png" style="height: 60%; width: 60%; object-fit: contain"/>
+  <img src="show_premiere_decade.png" style="height: 80%; width: 80%; object-fit: contain"/>
   <figcaption>Most shows had a lot of plot still to cover after their couples' first kisses. Does this mean the ratings were high enough to save the show? You can find the "typical" (read: median) couples by looking for the horizontal line in the middle of each decade's box.</figcaption>
 </figure>
 
@@ -56,7 +58,7 @@ Let's first look at a few examples of individual couples and shows, starting wit
 </br>
 
 <figure>
-  <img src="model_ng.png" style="height: 60%; width: 60%; object-fit: contain"/>
+  <img src="model_ng.png" style="height: 80%; width: 80%; object-fit: contain"/>
   <figcaption>Did *New Girl* go downhill after Nick and Jess's first kiss? Each point represents an episode of the show, where higher points received higher ratings. The solid lines represent the actual trend, whereas the dashed line represents the counterfactual trend.</figcaption>
 </figure>
 
@@ -67,7 +69,7 @@ This effect looks a little different for Ross and Rachel from *Friends*. Here, t
 </br> 
 
 <figure>
-  <img src="model_friends.png" style="height: 60%; width: 60%; object-fit: contain"/>
+  <img src="model_friends.png" style="height: 80%; width: 80%; object-fit: contain"/>
   <figcaption>Ross and Rachel's story isn't over after they kiss. Each point represents an episode of the show, where higher points received higher ratings. The solid lines represent the actual trend, whereas the dashed line represents the counterfactual trend.</figcaption>
 </figure>
 
@@ -76,7 +78,7 @@ Finally, we look at the overall KE across the 20 most-mentioned couples. When we
 </br>
 
 <figure>
-  <img src="model_all_shows.png" style="height: 60%; width: 60%; object-fit: contain"/>
+  <img src="model_all_shows.png" style="height: 80%; width: 80%; object-fit: contain"/>
   <figcaption>We can get a better sense of the average KE by zooming out to look at all twenty of our top couples together. Look at the difference in direction on that counterfactual!</figcaption>
 </figure>
 
