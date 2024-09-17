@@ -131,5 +131,47 @@
     "title": "Do it for the plot!",
     "section": "🍿 See, I can do stats and watch Netflix at the same time!",
     "text": "🍿 See, I can do stats and watch Netflix at the same time!"
+  },
+  {
+    "objectID": "blog/posts/procrastination/index.html",
+    "href": "blog/posts/procrastination/index.html",
+    "title": "GiRls Just Wanna Make Decisions",
+    "section": "",
+    "text": "One of the coolest things about being a (bio)statistician is that I get to use data to help clinicians and public health experts make decisions! However, I’m not always in the mood to make one myself. Have you ever been stuck in the loop of wanting a snack but not knowing which one to pick? What about wanting to binge-watch a sitcom but not knowing which show’s vibe is the right move? Yeah, me too."
+  },
+  {
+    "objectID": "blog/posts/procrastination/index.html#to-decide-or-not-to-decide-that-is-in-fact-the-question",
+    "href": "blog/posts/procrastination/index.html#to-decide-or-not-to-decide-that-is-in-fact-the-question",
+    "title": "GiRls Just Wanna Make Decisions",
+    "section": "",
+    "text": "One of the coolest things about being a (bio)statistician is that I get to use data to help clinicians and public health experts make decisions! However, I’m not always in the mood to make one myself. Have you ever been stuck in the loop of wanting a snack but not knowing which one to pick? What about wanting to binge-watch a sitcom but not knowing which show’s vibe is the right move? Yeah, me too."
+  },
+  {
+    "objectID": "blog/posts/procrastination/index.html#time-to-put-on-the-sampling-hat",
+    "href": "blog/posts/procrastination/index.html#time-to-put-on-the-sampling-hat",
+    "title": "GiRls Just Wanna Make Decisions",
+    "section": "Time to put on the sampling hat! 👑",
+    "text": "Time to put on the sampling hat! 👑\nLuckily for my sitcom paralysis, I’ve cooked up a solution! One of the classes I’m taking this semester has helped me sharpen my base R skills, which had previously been pushed aside in favor of Team Tidy. To help me gain an appreciation for all those lists and double brackets rather than my trusty friend dplyr, I wrote up a script to pick a random episode from an (optionally) random sitcom! Of course, you can always pass in your favorite show (if I like it enough to include it on my list). Try it out!"
+  },
+  {
+    "objectID": "blog/posts/procrastination/index.html#ashley-this-is-great-where-does-it-live",
+    "href": "blog/posts/procrastination/index.html#ashley-this-is-great-where-does-it-live",
+    "title": "GiRls Just Wanna Make Decisions",
+    "section": "Ashley, this is great! Where does it live?",
+    "text": "Ashley, this is great! Where does it live?\nActually, this script is the first part of a larger project! A few weeks ago, I had to play Jenga with many of my local files after realizing I was three versions of macOS behind of the rest of the world and lacking the (TOO MANY) gigs of storage needed to update my machine. While digging through my aRchives, I found a few of my other side quests. As I polish them further, I’ll be placing them in my shiny new GitHub repo of silly but somewhat useful scripts! Be sure to keep an eye on my Twitter for any new ones as I drop them."
+  },
+  {
+    "objectID": "blog/posts/procrastination/index.html#time-for-a-plot-twist",
+    "href": "blog/posts/procrastination/index.html#time-for-a-plot-twist",
+    "title": "GiRls Just Wanna Make Decisions",
+    "section": "Time for a plot twist 📖",
+    "text": "Time for a plot twist 📖\nAnother class I’ve been taking this semester is Fundamentals of Probability. Anyone who’s ever taken a probability class knows that at least a week is devoted to the ~dreaded counting problems~ that plague my nightmares. Counting is harder than people think! One common combinatorial problem asks about ways to choose pairs of socks from a drawer. I personally get a laugh out of those questions, because I’ll wear any two ankle socks as a pair, even if they don’t match! Thus, if Ashley has a drawer of ankle socks, the expected number of socks she’ll need to grab from the drawer to form a pair is 2. Apparently, other people on the internet share my sock silliness. Take that, geometric distribution!"
+  },
+  {
+    "objectID": "blog/index.html#an-exercise-in-statistical-and-television-programming",
+    "href": "blog/index.html#an-exercise-in-statistical-and-television-programming",
+    "title": "Do it for the plot!",
+    "section": "📺 An exercise in statistical and television programming",
+    "text": "📺 An exercise in statistical and television programming"
   }
 ]

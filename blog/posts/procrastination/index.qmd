@@ -1,0 +1,25 @@
+---
+title: "GiRls Just Wanna Make Decisions"
+date: "09/16/2024"
+author: "Ashley E. Mullan"
+format:
+  html:
+    self-contained: true
+---
+
+## To decide or not to decide: that is, in fact, the question!!
+
+One of the coolest things about being a (bio)statistician is that I get to use data to help clinicians and public health experts make decisions! However, I'm not always in the mood to make one myself. Have you ever been stuck in the loop of wanting a snack but not knowing which one to pick? What about wanting to binge-watch a sitcom but not knowing which show's vibe is the right move? Yeah, me too. 
+
+## Time to put on the sampling hat! 👑
+
+Luckily for my sitcom paralysis, I've cooked up a solution! One of the classes I'm taking this semester has helped me sharpen my base R skills, which had previously been pushed aside in favor of Team [Tidy](https://www.tidyverse.org/). To help me gain an appreciation for all those lists and double brackets rather than my trusty friend `dplyr`, I wrote up a script to pick a random episode from an (optionally) random sitcom! Of course, you can always pass in your favorite show (if I like it enough to include it on my list). Try it out!
+
+## Ashley, this is great! Where does it live?
+
+Actually, this script is the first part of a larger project! A few weeks ago, I had to play Jenga with many of my local files after realizing I was three versions of macOS behind of the rest of the world and lacking the (TOO MANY) gigs of storage needed to update my machine. While digging through my aRchives, I found a few of my other side quests. As I polish them further, I'll be placing them in my shiny new [GitHub repo](https://github.com/ashleymullan/side_quests) of silly but somewhat useful scripts! Be sure to keep an eye on my Twitter for any new ones as I drop them.
+
+## Time for a plot twist 📖
+
+Another class I've been taking this semester is *Fundamentals of Probability*. Anyone who's ever taken a probability class knows that at least a week is devoted to the ~dreaded counting problems~ that plague my nightmares. Counting is harder than people think! One common combinatorial problem asks about ways to choose pairs of socks from a drawer. I personally get a laugh out of those questions, because I'll wear any two ankle socks as a pair, even if they don't match! Thus, if Ashley has a drawer of ankle socks, the expected number of socks she'll need to grab from the drawer to form a pair is 2. Apparently, other people on the internet share my [sock silliness](https://medium.com/whatevers/5-reasons-why-i-wear-mismatched-socks-a7f51cd444ac). Take that, geometric distribution! 
+
