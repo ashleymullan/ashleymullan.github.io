@@ -30,7 +30,7 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 [Slides](materials/enar_24_slides.pdf)
 
 3. **Contributed Poster**: Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television </br> Couples and Episode Ratings </br> *Women in Statistics and Data Science* - *October 2023* </br>
-[Poster](materials/wsds_23_slides.pdf)
+[Poster](materials/wsds_23_poster.pdf)
 
 4. **Contributed Poster**: Music Feature Classification: Using Techniques of Machine Learning to Detect Genre </br> *MAA MathFest* - *August 2022* </br>
 [Poster](materials/mathfest_thesis_poster.pdf)
