@@ -19,7 +19,8 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 3. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* </br> *October 2024*
 
-4. **Guest Lecture**: Stats can be fun, I swear! </br> *PSYCH1130, Cornell University* - *September 2024*
+4. **Guest Lecture**: Stats can be fun, I swear! </br> *PSYCH1130, Cornell University* - *September 2024* </br>
+[Slides](materials/cornell.pdf) - [App]( https://ashley-mullan.shinyapps.io/lecture-app/)
 
 ## Highlight Reel
 
@@ -60,7 +61,10 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ### GIFs Galore!
 
+
    <img src="enar_24_slides.gif" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://drive.google.com/file/d/15DsLbAocr2M5NbAco--F-wF6fiGalV2v/view', 'blank');"//>
+   
+   [//]: <> (for later:   <img src="cornell_gif.gif" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('materials/cornell_gif.gif', 'blank');"//>)
 
   <img src="ms_defense_slides.gif" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://drive.google.com/file/d/1sc6r38JTv37dQ4RFLifeN0bEfekIt_de/view', 'blank');"//>
   
