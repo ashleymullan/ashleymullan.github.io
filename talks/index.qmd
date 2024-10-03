@@ -17,7 +17,8 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 2. **Invited Panel**: Graduate Admissions Advice </br>
 *Electronic Undergraduate Student Research Conference* </br> *November 2024*
 
-3. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* </br> *October 2024*
+3. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* </br> *October 2024* </br>
+[Slides](materials/IDWSDS-24.pdf)
 
 
 ## Highlight Reel
@@ -62,11 +63,18 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ### GIFs Galore!
   
-  <img src="enar_24_slides.gif" width="200" height="100">
+  <img src="materials/IDWSDS-24.gif" width="200" height="100">
   
-  <img src="materials/cornell_gif.gif" width="200" height="100">
+  <img src="materials/cornell_gif.gif" width="200" height="100"> 
   
   <img src="materials/ms_defense_slides.gif" width="200" height="100">
+  
+  <img src="enar_24_slides.gif" width="200" height="100">
+  
+
+  
+
+
    
 
 
