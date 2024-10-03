@@ -8,7 +8,7 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 :::: {.columns}
 
-::: {.column width="75%"}
+::: {.column width="78%"}
 
 ## Coming Soon to Theaters
 
@@ -17,7 +17,10 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 2. **Invited Panel**: Graduate Admissions Advice </br>
 *Electronic Undergraduate Student Research Conference* </br> *November 2024*
 
-3. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* </br> *October 2024* </br>
+3. **Contributed Poster**: Adjusting for covariate misclassification to quantify the relationship between diabetes and local access to healthy food </br>
+*Women in Statistics and Data Science Conference* - *October 2024*
+
+4. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* - *October 2024* </br>
 [Slides](materials/IDWSDS-24.pdf)
 
 
@@ -55,7 +58,7 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 :::
 
-::: {.column width="5%"}
+::: {.column width="2%"}
 <!-- empty column to create gap -->
 :::
 
