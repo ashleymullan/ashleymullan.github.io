@@ -66,13 +66,22 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ### GIFs Galore!
   
-  <img src="materials/IDWSDS-24.gif" width="200" height="100">
+  <a href="materials/IDWSDS-24.pdf">
+   <img src="materials/IDWSDS-24.gif" width="200" height="100">
+</a>
+
+  <a href="materials/cornell.pdf">
+   <img src="materials/cornell_gif.gif" width="200" height="100">
+</a>
+ 
+  <a href="materials/ms_defense_slides.pdf">
+   <img src="materials/ms_defense_slides.gif" width="200" height="100">
+</a>
+
+  <a href="materials/enar_24_slides.pdf">
+   <img src="materials/enar_24_slides.gif" width="200" height="100">
+</a>
   
-  <img src="materials/cornell_gif.gif" width="200" height="100"> 
-  
-  <img src="materials/ms_defense_slides.gif" width="200" height="100">
-  
-  <img src="enar_24_slides.gif" width="200" height="100">
   
 
   
