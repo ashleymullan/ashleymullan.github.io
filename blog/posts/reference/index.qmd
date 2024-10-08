@@ -17,13 +17,19 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 
 1. [The Catalogue of Bias](https://catalogofbias.org/)
 
-### Some Cheat Sheets
+### Some Cheat Sheets and Tutorials
+1. [Posit's Cheat Sheets](https://posit.co/resources/cheatsheets/)
+2. [ScrollyTell](https://github.com/mschnetzer/scrollytell_arbeitszeit)
+3. [Annotating Quarto Code](https://www.productive-r-workflow.com/quarto-tricks#code-annotation)
+4. [Base R Plotting Tips](https://r-charts.com/base-r/)
+5. [SQL Cheat Sheet](https://x.com/thenaijacarguy/status/1818051495553552536?s=12)
 
-### Some Cool Tutorials
-
-### Some Professional Advice
+### Some Professional Advice and Opportunities
+1. [ASA Postdoc Association](https://asapostdocs.org/)
 
 ### Some Miscellaneous Items
+1. [Paul's Online Math Notes: Everything You Ever Needed in Calculus](https://tutorial.math.lamar.edu/)
+2. [Example Datasets](https://vincentarelbundock.github.io/Rdatasets/index.html)
 
 ## Time for a plot twist 📖
 
