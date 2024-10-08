@@ -1,0 +1,32 @@
+---
+title: "A Handy Reference"
+date: "10/07/2024"
+author: "Ashley E. Mullan"
+format:
+  html:
+    self-contained: true
+---
+
+## An ode to being forgetful
+
+My bookmarks bar and folder of saved Tweets are graveyards full of wonderful resources that I have promised myself I'd return to at a later time and never did. Here, I've compiled and organized a list of some of these links for easy access! Out of sight, out of mind, right? 
+
+## Links, links, and more links! 🔗
+
+### Some Handy Definitions
+
+1. [The Catalogue of Bias](https://catalogofbias.org/)
+
+### Some Cheat Sheets
+
+### Some Cool Tutorials
+
+### Some Professional Advice
+
+### Some Miscellaneous Items
+
+## Time for a plot twist 📖
+
+I often have the same problem in movie theaters. I'll sit through a preview of an upcoming film, get excited about it, and then promptly forget about it until it pops up on my Netflix about a year and a half later. Here's a [link](https://www.ign.com/upcoming/movies) to some of the upcoming movies in the last few months of 2024!
+
+

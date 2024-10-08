@@ -30,3 +30,5 @@ Welcome to my blog, "Do it for the plot!" I've always got a side quest (or two o
 ## [🍿 See, I can do stats and watch Netflix at the same time!](posts/tv_ratings/index.qmd)
 
 ## [📺 An exercise in statistical and television programming](posts/side_quests/index.qmd)
+
+## [🤔 Hmm, these are cool.](posts/reference/index.qmd)
