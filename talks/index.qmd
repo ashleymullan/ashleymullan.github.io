@@ -18,7 +18,8 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 *Electronic Undergraduate Student Research Conference* </br> *November 2024*
 
 3. **Contributed Poster**: Adjusting for covariate misclassification to quantify the relationship between diabetes and local access to healthy food </br>
-*Women in Statistics and Data Science Conference* - *October 2024*
+*Women in Statistics and Data Science Conference* - *October 2024* </br>
+[Poster](materials/wsds_24_poster.png)
 
 
 ## Highlight Reel
