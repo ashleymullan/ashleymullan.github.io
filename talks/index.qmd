@@ -17,42 +17,42 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 2. **Invited Panel**: Graduate Admissions Advice </br>
 *Electronic Undergraduate Student Research Conference* </br> *November 2024*
 
-3. **Contributed Poster**: Adjusting for covariate misclassification to quantify the relationship between diabetes and local access to healthy food </br>
-*Women in Statistics and Data Science Conference* - *October 2024* </br>
-[Poster](materials/wsds_24_poster.png)
-
 
 ## Highlight Reel
 
-1. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* - *October 2024* </br>
+1. **Contributed Poster**: Adjusting for covariate misclassification to quantify the relationship between diabetes and local access to healthy food </br>
+*Women in Statistics and Data Science Conference* - *October 2024* </br>
+[Poster](materials/wsds_24_poster.png)
+
+2. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* - *October 2024* </br>
 [Slides](materials/IDWSDS-24.pdf)
 
-2. **Guest Lecture**: Stats can be fun, I swear! </br> *PSYCH1130, Cornell University* - *September 2024* </br>
+3. **Guest Lecture**: Stats can be fun, I swear! </br> *PSYCH1130, Cornell University* - *September 2024* </br>
 [Slides](materials/cornell.pdf) - [App](https://ashley-mullan.shinyapps.io/lecture-app/)
 
-3. **Master's Thesis Defense**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *Wake Forest University* - *April 2024* </br>
+4. **Master's Thesis Defense**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *Wake Forest University* - *April 2024* </br>
 [Slides](materials/ms_defense_slides.pdf)
   
-4. **Contributed Talk**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *ENAR Spring Meeting* - *March 2024* </br>
+5. **Contributed Talk**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *ENAR Spring Meeting* - *March 2024* </br>
 [Slides](materials/enar_24_slides.pdf)
 
-5. **Contributed Poster**: Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television </br> Couples and Episode Ratings </br> *Women in Statistics and Data Science* - *October 2023* </br>
+6. **Contributed Poster**: Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television </br> Couples and Episode Ratings </br> *Women in Statistics and Data Science* - *October 2023* </br>
 [Poster](materials/wsds_23_poster.pdf)
 
-6. **Contributed Poster**: Music Feature Classification: Using Techniques of Machine Learning to Detect Genre </br> *MAA MathFest* - *August 2022* </br>
+7. **Contributed Poster**: Music Feature Classification: Using Techniques of Machine Learning to Detect Genre </br> *MAA MathFest* - *August 2022* </br>
 [Poster](materials/mathfest_thesis_poster.pdf)
 
-7. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Joint Mathematics Meetings* - *April 2022* </br>
+8. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Joint Mathematics Meetings* - *April 2022* </br>
 [Poster](materials/cc_reu_poster.pdf)
 
-8. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *SACNAS NDiSTEM Conference* - *August 2021*
+9. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *SACNAS NDiSTEM Conference* - *August 2021*
 </br>
 [Poster](materials/cc_reu_poster.pdf)
 
-9. **Featured Talk**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Mount Stuart Mathematics Seminar Series* - *August 2021* </br>
+10. **Featured Talk**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Mount Stuart Mathematics Seminar Series* - *August 2021* </br>
 [Slides](materials/cc_reu_slides.pdf)
 
-10. **Featured Talk**: A Puck Above the Rest: The Effects of New Data on 2020 NHL Draft Decisions </br> *Carnegie Mellon Sports Analytics Conference* - *October 2020* </br>
+11. **Featured Talk**: A Puck Above the Rest: The Effects of New Data on 2020 NHL Draft Decisions </br> *Carnegie Mellon Sports Analytics Conference* - *October 2020* </br>
 [Slides](https://stat.cmu.edu/cmsac/conference/2020/assets/pdf/nhl_draft_update.pdf)
 
 
