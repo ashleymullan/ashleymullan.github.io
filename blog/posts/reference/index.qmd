@@ -23,6 +23,7 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 3. [Annotating Quarto Code](https://www.productive-r-workflow.com/quarto-tricks#code-annotation)
 4. [Base R Plotting Tips](https://r-charts.com/base-r/)
 5. [SQL Cheat Sheet](https://x.com/thenaijacarguy/status/1818051495553552536?s=12)
+6. [Docker & Containers](https://gjhunt.github.io/repro_course/)
 
 ### Some Professional Advice and Opportunities
 1. [ASA Postdoc Association](https://asapostdocs.org/)
