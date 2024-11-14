@@ -2,44 +2,78 @@
 title: "Software"
 ---
 
-Ever since I first tried to learn C++ after school in the 11th grade, I've come a long way in the coding world! These days, I enjoy contributing to and trying out new R packages.
+Ever since I first tried to learn C++ after school in the 11th grade, I've come a long way in the coding world! These days, I enjoy contributing to and trying out new R packages. The hex stickers are clickable; check them out!
+
+
+### I'm the Author
+
+The visegen package (in progress) is based on work by Nick Micheletti and visualizes cost-effectiveness curves constructed with second-generation p-values.
 
 :::: {.columns}
 
-::: {.column width="65%"}
-
-### I'm a Contributor
-
-POSSUM has functions implementing the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master's thesis, while ThemePark has functions implementing a ggplot theme I designed in honor of Taylor Swift's newest album, *The Tortured Poets Department*. Click the hex stickers to check them out!
-
-::: {layout-ncol=2}
-<img src="possum.png" style="height: 65%; width: 65%; object-fit: contain" onclick="window.open('https://github.com/sarahlotspeich/possum', 'blank');"/>
-
-<img
-src="themePark.png" style="height: 65%; width: 65%; object-fit: contain" onclick="window.open('https://github.com/MatthewBJane/ThemePark', 'blank');"/>
-
-:::
-
-
-
-:::
-
-::: {.column width="10%"}
+::: {.column width="35%"}
 <!-- empty column to create gap -->
 :::
 
-::: {.column width="25%"}
-### I'm a Big Fan
+::: {.column width="30%"}
 
-🎨 [ggplot2](https://ggplot2.tidyverse.org/)
+ <img src="visegen.png" style="height: 70%; width: 70%; object-fit: contain" onclick="window.open('https://github.com/ashleymullan/visegen', 'blank');"/> 
 
-🗺️ [tidycensus](https://walker-data.com/tidycensus/)
+:::
 
-🎵 [gm](https://github.com/flujoo/gm)
+::: {.column width="35%"}
 
-🤣 [memer](https://github.com/sctyner/memer)
-
+<!-- empty column to create gap -->
 
 :::
 
 ::::
+
+### I'm a Contributor
+
+POSSUM has functions implementing the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master's thesis, while ThemePark has functions implementing a ggplot theme I designed in honor of Taylor Swift's newest album, *The Tortured Poets Department*. 
+
+:::: {.columns}
+
+::: {.column width="17%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="30%"}
+
+ <img src="possum.png" style="height: 50%; width: 50%; object-fit: fill" onclick="window.open('https://github.com/sarahlotspeich/possum', 'blank');"/> 
+ 
+:::
+
+::: {.column width="6%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="30%"}
+
+ <img src="themePark.png" style="height: 50%; width: 50%; object-fit: fill" onclick="window.open('https://github.com/MatthewBJane/ThemePark', 'blank');"/> 
+ 
+:::
+
+::: {.column width="17%"}
+
+<!-- empty column to create gap -->
+
+:::
+
+::::
+
+### I'm a Big Fan
+
+::: {layout-ncol=4}
+
+🎨 [ggplot2](https://ggplot2.tidyverse.org/) 
+
+🗺️ [tidycensus](https://walker-data.com/tidycensus/)
+
+🎵 [gm](https://github.com/flujoo/gm) 
+
+🤣 [memer](https://github.com/sctyner/memer)
+
+:::
+

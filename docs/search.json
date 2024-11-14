@@ -39,7 +39,7 @@
     "href": "software/index.html",
     "title": "Software",
     "section": "",
-    "text": "Ever since I first tried to learn C++ after school in the 11th grade, I’ve come a long way in the coding world! These days, I enjoy contributing to and trying out new R packages.\n\n\n\nI’m a Contributor\nPOSSUM has functions implementing the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master’s thesis, while ThemePark has functions implementing a ggplot theme I designed in honor of Taylor Swift’s newest album, The Tortured Poets Department. Click the hex stickers to check them out!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Big Fan\n🎨 ggplot2\n🗺️ tidycensus\n🎵 gm\n🤣 memer"
+    "text": "Ever since I first tried to learn C++ after school in the 11th grade, I’ve come a long way in the coding world! These days, I enjoy contributing to and trying out new R packages. The hex stickers are clickable; check them out!\n\nI’m the Author\nThe visegen package (in progress) is based on work by Nick Micheletti and visualizes cost-effectiveness curves constructed with second-generation p-values.\n\n\n\n\n\n\n\n\n\n\n\nI’m a Contributor\nPOSSUM has functions implementing the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master’s thesis, while ThemePark has functions implementing a ggplot theme I designed in honor of Taylor Swift’s newest album, The Tortured Poets Department.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Big Fan\n\n\n\n\n\n\n🎨 ggplot2\n\n\n🗺️ tidycensus\n\n\n🎵 gm\n\n\n🤣 memer"
   },
   {
     "objectID": "talks/index.html",
