@@ -1,5 +1,7 @@
 ---
-title: "404"
+title: "Sorry, we can't find your request!"
 ---
 
-Page not found, sorry! Try the search or navigate back to the base website.
+Please return to the home page or try again another time.
+
+![](img/search-penguin.gif)

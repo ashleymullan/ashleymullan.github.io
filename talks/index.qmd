@@ -12,9 +12,18 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ## Coming Soon to Theaters
 
-1. **Invited Talk**: Misclassification Challenges in Quantifying the Relationship Between Diabetes and Local Access to Healthy Food </br> *Department of Mathematics, University of Scranton* - *March 2025*
+1. **Invited Talk**: Refining Your Path: Correcting for Misclassification in </br>
+Healthy Food Access </br> *Department of Mathematics, University of Scranton* - *March 2025* </br>
+<span style="color: #cc00cc;">Slides</span>
+<!-- [Slides](materials/scranton-math-25.pdf) -->
 
-<!-- to add: enar poster and potential jsm talk and cens panel -->
+2. **Contributed Poster**: Visualizing Cost Effectiveness Analysis with </br> Second-Generation Acceptability Curves </br>
+*ENAR Spring Meeting* - *March 2025* </br>
+<span style="color: #cc00cc;">Poster</span>
+<!-- [Poster](materials/enar_25_poster.pdf) -->
+
+
+<!-- to add: jsm talk and cens panel -->
 
 ## Highlight Reel
 
