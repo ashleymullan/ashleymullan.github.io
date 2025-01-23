@@ -12,12 +12,21 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ## Coming Soon to Theaters
 
-1. **Invited Talk**: Refining Your Path: Correcting for Misclassification in </br>
+1. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University University* - *February 2025* </br>
+<span style="color: #cc00cc;"> Slides </span>
+<!-- [Slides](materials/ssmv.pdf) --> 
+
+2. **Invited Talk**: Refining Your Path: Correcting for Misclassification in </br>
 Healthy Food Access </br> *Department of Mathematics, University of Scranton* - *March 2025* </br>
 <span style="color: #cc00cc;">Slides</span>
 <!-- [Slides](materials/scranton-math-25.pdf) -->
 
-2. **Contributed Poster**: Visualizing Cost Effectiveness Analysis with </br> Second-Generation Acceptability Curves </br>
+3. **Guest Lecture**: Statistical Ideas You Can Never Unsee </br> *PSYCH1130, Cornell University* - *March 2025* </br>
+<span style="color: #cc00cc;">Slides - App </span>
+<!-- [Slides](materials/cornell2.pdf) --> 
+<!-- [App](https://ashley-mullan.shinyapps.io/lecture-app/) change me when app is ready-->
+
+4. **Contributed Poster**: Visualizing Cost Effectiveness Analysis with </br> Second-Generation Acceptability Curves </br>
 *ENAR Spring Meeting* - *March 2025* </br>
 <span style="color: #cc00cc;">Poster</span>
 <!-- [Poster](materials/enar_25_poster.pdf) -->
