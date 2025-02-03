@@ -13,8 +13,7 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 ## Coming Soon to Theaters
 
 1. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *February 2025* </br>
-<span style="color: #cc00cc;"> Slides - </span> [Example](https://docs.google.com/spreadsheets/d/1VX64Wa2KaxGssq5m6BbMT-27dtyYObdHMEBMJXInEGw/edit?usp=sharing)
-<!-- [Slides](materials/ssmv.pdf) --> 
+[Slides](materials/ssmv.pdf) - [Example](https://docs.google.com/spreadsheets/d/1VX64Wa2KaxGssq5m6BbMT-27dtyYObdHMEBMJXInEGw/edit?usp=sharing) 
 
 2. **Invited Talk**: Refining Your Path: Correcting for Misclassification in </br>
 Healthy Food Access </br> *Department of Mathematics, University of Scranton* - *March 2025* </br>
