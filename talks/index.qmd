@@ -85,9 +85,13 @@ Healthy Food Access </br> *Department of Mathematics, University of Scranton* - 
 
 ### GIFs Galore!
   
+  <a href="materials/ssmv.pdf">
+   <img src="materials/ssmv-gif.gif" width="200" height="100">
+</a>
+
   <a href="materials/IDWSDS-24.pdf">
    <img src="materials/IDWSDS-24.gif" width="200" height="100">
-</a>
+</a> 
 
   <a href="materials/cornell.pdf">
    <img src="materials/cornell_gif.gif" width="200" height="100">
