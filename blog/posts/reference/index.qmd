@@ -24,10 +24,11 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 4. [Base R Plotting Tips](https://r-charts.com/base-r/)
 5. [SQL Cheat Sheet](https://x.com/thenaijacarguy/status/1818051495553552536?s=12)
 6. [Docker & Containers](https://gjhunt.github.io/repro_course/)
+7. [Gorgeous R Tables](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r)
 
 ### Some Professional Advice and Opportunities
 1. [ASA Postdoc Association](https://asapostdocs.org/)
-2. [ENAR CENS (Council for Emerging and New Statisticians)](https://www.enar.org/meetings/spring2024/profdev/cens.cfm)
+2. [ENAR CENS (Council for Emerging and New Statisticians)](https://cens-enar.github.io/cens_website/)
 
 ### Funding Opportunities for Early Career Folks
 1. [ASA Early Career Travel Fund](https://www.amstat.org/your-career/awards/student-and-early-career-travel-fund)
