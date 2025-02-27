@@ -14,8 +14,7 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 1. **Invited Talk**: Refining Your Path: Correcting for Misclassification in </br>
 Healthy Food Access </br> *Department of Mathematics, University of Scranton* - *March 2025* </br>
-<span style="color: #cc00cc;">Slides</span>
-<!-- [Slides](materials/scranton-math-25.pdf) -->
+[Slides](materials/scranton-math-25.pdf)
 
 2. **Guest Lecture**: Statistical Ideas You Can Never Unsee </br> *PSYCH1130, Cornell University* - *March 2025* </br>
 <span style="color: #cc00cc;">Slides - App </span>
@@ -84,6 +83,10 @@ Healthy Food Access </br> *Department of Mathematics, University of Scranton* - 
 ::: {.column width="20%"}
 
 ### GIFs Galore!
+
+  <a href="materials/scranton-math-25.pdf">
+   <img src="materials/scranton.gif" width="200" height="100">
+</a>
   
   <a href="materials/ssmv.pdf">
    <img src="materials/ssmv-gif.gif" width="200" height="100">
