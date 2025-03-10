@@ -13,9 +13,8 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 ## Coming Soon to Theaters
 
 1. **Guest Lecture**: Statistical Ideas You Can Never Unsee </br> *PSYCH1130, Cornell University* - *March 2025* </br>
-<span style="color: #cc00cc;">Slides - App </span>
-<!-- [Slides](materials/cornell2.pdf) --> 
-<!-- [App](https://ashley-mullan.shinyapps.io/lecture-app/) change me when app is ready-->
+[Slides](materials/cornell2.pdf) -
+[App]( https://ashley-mullan.shinyapps.io/cornell/) 
 
 2. **Contributed Poster**: Visualizing Cost Effectiveness Analysis with </br> Second-Generation Acceptability Curves </br>
 *ENAR Spring Meeting* - *March 2025* </br>
@@ -84,6 +83,10 @@ Healthy Food Access </br> *Department of Mathematics, University of Scranton* - 
 
 ### GIFs Galore!
 
+  <a href="materials/cornell2.pdf">
+   <img src="materials/cornell2_gif.gif" width="200" height="100">
+</a>
+
   <a href="materials/scranton-math-25.pdf">
    <img src="materials/scranton.gif" width="200" height="100">
 </a>
@@ -96,10 +99,6 @@ Healthy Food Access </br> *Department of Mathematics, University of Scranton* - 
    <img src="materials/IDWSDS-24.gif" width="200" height="100">
 </a> 
 
-  <a href="materials/cornell.pdf">
-   <img src="materials/cornell_gif.gif" width="200" height="100">
-</a>
- 
   <a href="materials/ms_defense_slides.pdf">
    <img src="materials/ms_defense_slides.gif" width="200" height="100">
 </a>
