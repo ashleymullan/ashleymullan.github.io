@@ -28,6 +28,8 @@ website:
     right:
       - icon: twitter
         href: "https://twitter.com/ashley___mullan"
+      - text: "{{<iconify ri:bluesky-fill>}}"
+        href: "https://bsky.app/profile/ashleymullan.bsky.social"
       - icon: github
         href: "https://github.com/ashleymullan"
       - icon: linkedin
@@ -44,11 +46,11 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2024 Ashley E. Mullan CC BY-SA 4.0</span>
+      <span class="faux-block">&#169; 2025 Ashley E. Mullan CC BY-SA 4.0</span>
     center: |
       <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/ashleymullan/ashleymullan.github.io">View source on GitHub</a></span>
 
 project:
   type: website
