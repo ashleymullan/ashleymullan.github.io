@@ -1,0 +1,17 @@
+---
+title: "Publications"
+---
+
+What good is science if the world doesn't see it? 
+
+## Peer-Reviewed
+
+1. S.C. Lotspeich, **A.E. Mullan**, L. D’Agostino McGowan, and S.A. Hepler, “Combining straight-line and map-based distances to investigate the connection between proximity to healthy foods and disease,” Statistics in Medicine, in press, 2025+. </br>
+[Preprint](https://arxiv.org/abs/2405.16385)
+
+## In Preparation
+
+1. **A.E. Mullan**, P.D.A. Nguyen, and S.C. Lotspeich, Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence, 2025+
+
+<!-- ## Professional -->
+<!-- this is where Significance is going to go -->

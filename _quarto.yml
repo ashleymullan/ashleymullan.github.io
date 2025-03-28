@@ -21,6 +21,8 @@ website:
         href: software/index.qmd
       - text: "Talks"
         href: talks/index.qmd
+      - text: "Publications"
+        href: papers/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
