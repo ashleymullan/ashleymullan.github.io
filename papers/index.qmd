@@ -6,8 +6,8 @@ What good is science if the world doesn't see it?
 
 ## Peer-Reviewed
 
-1. S.C. Lotspeich, **A.E. Mullan**, L. D’Agostino McGowan, and S.A. Hepler, “Combining straight-line and map-based distances to investigate the connection between proximity to healthy foods and disease,” Statistics in Medicine, in press, 2025+. </br>
-[Preprint](https://arxiv.org/abs/2405.16385)
+1. S.C. Lotspeich, **A.E. Mullan**, L. D'Agostino McGowan, and S.A. Hepler, "Combining straight-line and map-based distances to investigate the connection between proximity to healthy foods and disease," Statistics in Medicine, vol. 44, no. 7, pp. e70054, 2025. </br>
+[Paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.70054) - [Software](https://github.com/sarahlotspeich/food_access_imputation)
 
 ## In Preparation
 
