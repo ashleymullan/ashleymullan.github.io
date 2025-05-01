@@ -9,9 +9,10 @@ What good is science if the world doesn't see it?
 1. S.C. Lotspeich, **A.E. Mullan**, L. D'Agostino McGowan, and S.A. Hepler, "Combining straight-line and map-based distances to investigate the connection between proximity to healthy foods and disease," Statistics in Medicine, vol. 44, no. 7, pp. e70054, 2025. </br>
 [Paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.70054) - [Software](https://github.com/sarahlotspeich/food_access_imputation)
 
-## In Preparation
+## Submitted Manuscripts
 
-1. **A.E. Mullan**, P.D.A. Nguyen, and S.C. Lotspeich, Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence, 2025+
+1. **A.E. Mullan**, P.D.A. Nguyen, S.C. Lotspeich, "Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,"" *Statistics and Publicy Policy* (under review), 2025+. </br>
+[Preprint](arxiv) - [Software](https://github.com/ashleymullan/food_access_misclassification)
 
 <!-- ## Professional -->
 <!-- this is where Significance is going to go -->
