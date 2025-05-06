@@ -12,7 +12,7 @@ What good is science if the world doesn't see it?
 ## Submitted Manuscripts
 
 1. **A.E. Mullan**, P.D.A. Nguyen, S.C. Lotspeich, "Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,"" *Statistics and Public Policy* (under review), 2025+. </br>
-[Preprint](arxiv) - [Software](https://github.com/ashleymullan/food_access_misclassification)
+[Preprint](https://arxiv.org/abs/2505.01465) - [Software](https://github.com/ashleymullan/food_access_misclassification)
 
 <!-- ## Professional -->
 <!-- this is where Significance is going to go -->
