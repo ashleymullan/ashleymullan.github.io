@@ -13,9 +13,9 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 ## Coming Soon to Theaters
 
 1. **Guest Lecture**: Statistics in Your Own Backyard </br>
-*Day of Discovery, Vanderbilt University* - *May 2025* </br>
-<p style="color:#cc00cc;"> Slides </p>
-<!-- [Slides](materials/day-of-disc.pdf) -
+*Day of Discovery, Vanderbilt University* - *September 2025* </br>
+[Slides](materials/day-of-disc.pdf)
+<!--  -
 [App]( https://ashley-mullan.shinyapps.io/day-of-disc/)  -->
 
 
@@ -87,6 +87,10 @@ Healthy Food Access </br> *Department of Mathematics, University of Scranton* - 
 ::: {.column width="20%"}
 
 ### GIFs Galore!
+
+  <a href="materials/day-of-disc.pdf">
+   <img src="materials/day-of-disc-gif.gif" width="200" height="100">
+</a>
 
   <a href="materials/cornell2.pdf">
    <img src="materials/cornell2_gif.gif" width="200" height="100">
