@@ -1,6 +1,7 @@
 ---
 title: "A Handy Reference"
 date: "10/07/2024"
+date-modified: last-modified
 author: "Ashley E. Mullan"
 format:
   html:
@@ -17,7 +18,13 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 
 1. [The Catalogue of Bias](https://catalogofbias.org/)
 
-### Some Cheat Sheets and Tutorials
+### For New R Converts
+1. [Swirl](https://swirlstats.com/)
+2. [DiscovR](https://www.discovr.rocks/discovr/)
+3. [TinyStats](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html)
+4. [R4DS](https://r4ds.hadley.nz/)
+
+### For Tech Enthusiasts Only
 1. [Posit's Cheat Sheets](https://posit.co/resources/cheatsheets/)
 2. [ScrollyTell](https://github.com/mschnetzer/scrollytell_arbeitszeit)
 3. [Annotating Quarto Code](https://www.productive-r-workflow.com/quarto-tricks#code-annotation)
@@ -25,6 +32,14 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 5. [SQL Cheat Sheet](https://x.com/thenaijacarguy/status/1818051495553552536?s=12)
 6. [Docker & Containers](https://gjhunt.github.io/repro_course/)
 7. [Gorgeous R Tables](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r)
+
+### Data, Data, and More Data
+1. [General Social Survey](https://gss.norc.org/us/en/gss/get-the-data.html)
+2. [Kaggle](https://www.kaggle.com/datasets)
+3. [UC Irvine Repo](https://archive.ics.uci.edu/)
+4. [StatSci](http://www.statsci.org/datasets.html)
+5. [Data is Plural Spreadsheet (thanks to Jeremy Singer)](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit?gid=0#gid=0)
+6. [Rdatasets Package (thanks to Vincent Arel-Bundock)](https://vincentarelbundock.github.io/Rdatasets/index.html)
 
 ### Some Professional Advice and Opportunities
 1. [ASA Postdoc Association](https://asapostdocs.org/)
@@ -38,7 +53,7 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 
 ### Some Miscellaneous Items
 1. [Paul's Online Math Notes: Everything You Ever Needed in Calculus](https://tutorial.math.lamar.edu/)
-2. [Example Datasets](https://vincentarelbundock.github.io/Rdatasets/index.html)
+
 
 ## Time for a plot twist 📖
 

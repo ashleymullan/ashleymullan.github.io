@@ -228,7 +228,7 @@
     "href": "blog/posts/reference/index.html#links-links-and-more-links",
     "title": "A Handy Reference",
     "section": "Links, links, and more links! 🔗",
-    "text": "Links, links, and more links! 🔗\n\nSome Handy Definitions\n\nThe Catalogue of Bias\n\n\n\nSome Cheat Sheets and Tutorials\n\nPosit’s Cheat Sheets\nScrollyTell\nAnnotating Quarto Code\nBase R Plotting Tips\nSQL Cheat Sheet\nDocker & Containers\nGorgeous R Tables\n\n\n\nSome Professional Advice and Opportunities\n\nASA Postdoc Association\nENAR CENS (Council for Emerging and New Statisticians)\n\n\n\nFunding Opportunities for Early Career Folks\n\nASA Early Career Travel Fund\nENAR Fostering Diversity Grant\nA Collection of Conference Travel Grants\n\n\n\nSome Miscellaneous Items\n\nPaul’s Online Math Notes: Everything You Ever Needed in Calculus\nExample Datasets"
+    "text": "Links, links, and more links! 🔗\n\nSome Handy Definitions\n\nThe Catalogue of Bias\n\n\n\nFor New R Converts\n\nSwirl\nDiscovR\nTinyStats\nR4DS\n\n\n\nFor Tech Enthusiasts Only\n\nPosit’s Cheat Sheets\nScrollyTell\nAnnotating Quarto Code\nBase R Plotting Tips\nSQL Cheat Sheet\nDocker & Containers\nGorgeous R Tables\n\n\n\nData, Data, and More Data\n\nGeneral Social Survey\nKaggle\nUC Irvine Repo\nStatSci\nData is Plural Spreadsheet (thanks to Jeremy Singer)\nRdatasets Package (thanks to Vincent Arel-Bundock)\n\n\n\nSome Professional Advice and Opportunities\n\nASA Postdoc Association\nENAR CENS (Council for Emerging and New Statisticians)\n\n\n\nFunding Opportunities for Early Career Folks\n\nASA Early Career Travel Fund\nENAR Fostering Diversity Grant\nA Collection of Conference Travel Grants\n\n\n\nSome Miscellaneous Items\n\nPaul’s Online Math Notes: Everything You Ever Needed in Calculus"
   },
   {
     "objectID": "blog/posts/reference/index.html#time-for-a-plot-twist",
@@ -285,5 +285,12 @@
     "title": "Publications",
     "section": "Submitted Manuscripts",
     "text": "Submitted Manuscripts\n\nA.E. Mullan, P.D.A. Nguyen, S.C. Lotspeich, “Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,”” Statistics and Public Policy (under review), 2025+.  Preprint - Software"
+  },
+  {
+    "objectID": "blog/posts/reference/index.html#an-ode-to-being-a-really-forgetful-person",
+    "href": "blog/posts/reference/index.html#an-ode-to-being-a-really-forgetful-person",
+    "title": "A Handy Reference",
+    "section": "",
+    "text": "My bookmarks bar and folder of saved Tweets are graveyards full of wonderful resources that I have promised myself I’d return to at a later time and never did. Here, I’ve compiled and organized a list of some of these links for easy access! Out of sight, out of mind, right?"
   }
 ]
