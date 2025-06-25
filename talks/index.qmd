@@ -4,7 +4,7 @@ title: Talks
 
 What do you get when you cross a chatterbox and a scientist? A whole lot of talks!
 
-Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (bio)stats to the conversation! Here are some of my recent and upcoming talks. Slides are available either by clicking on the links in the entries or the GIF wall!
+Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (bio)stats to the conversation. Here are some of my recent and upcoming talks and presentations. Materials are available either by clicking on the links in the entries or the GIF wall!
 
 :::: {.columns}
 
@@ -18,8 +18,16 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 <!--  -
 [App]( https://ashley-mullan.shinyapps.io/day-of-disc/)  -->
 
+2. **Contributed E-Poster**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+*Joint Statistical Meetings* - *August 2025* </br>
+<span style="color:#cc00cc;"> Poster </span>
 
-<!-- to add: jsm talk and cens panel -->
+3. **Invited Panel**: Beyond Academia - Exploring Statistics Careers in </br> Industry, Government, and More </br>
+*Joint Statistical Meetings* - *August 2025* </br>
+I'm chairing this [panel](https://cens-enar.github.io/cens_website/events/abstracts/jsm25.html)!
+
+
+<!-- to add: TCOM -->
 
 ## Highlight Reel
 
