@@ -40,6 +40,7 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 4. [StatSci](http://www.statsci.org/datasets.html)
 5. [Data is Plural Spreadsheet (thanks to Jeremy Singer)](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit?gid=0#gid=0)
 6. [Rdatasets Package (thanks to Vincent Arel-Bundock)](https://vincentarelbundock.github.io/Rdatasets/index.html)
+7. [DataSetsVerse Package (thanks to Andres Renzo Caceres Rossi)](https://lightbluetitan.github.io/datasetsverse/)
 
 ### Some Professional Advice and Opportunities
 1. [ASA Postdoc Association](https://asapostdocs.org/)
