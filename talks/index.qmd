@@ -54,7 +54,7 @@ Healthy Food Access </br> *Department of Mathematics, University of Scranton* - 
 [Poster](materials/wsds_24_poster.png)
 
 7. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* - *October 2024* </br>
-[Slides](materials/IDWSDS-24.pdf)
+[Slides](materials/IDWSDS-24.pdf) - [Recording](https://youtu.be/v45ym5ULkGs?feature=shared)
 
 8. **Guest Lecture**: Stats can be fun, I swear! </br> *PSYCH1130, Cornell University* - *September 2024* </br>
 [Slides](materials/cornell.pdf) - [App](https://ashley-mullan.shinyapps.io/lecture-app/)
