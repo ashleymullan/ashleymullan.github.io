@@ -32,3 +32,5 @@ Welcome to my blog, "Do it for the plot!" I've always got a side quest (or two o
 ## [📺 An exercise in statistical and television programming](posts/side_quests/index.qmd)
 
 ## [🤔 Hmm, these are cool.](posts/reference/index.qmd)
+
+## [🦈 Someone needs to take my TV privileges away.](posts/game_changer/index.qmd)

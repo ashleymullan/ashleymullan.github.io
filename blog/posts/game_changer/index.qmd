@@ -1,0 +1,37 @@
+---
+title: "Get Ready for a GAME CHANGER!!"
+date: "07/14/2025"
+date-modified: last-modified
+author: "Ashley E. Mullan"
+format:
+  html:
+    self-contained: true
+---
+## Fool's Gold
+
+On July 14, Dropout released Season 7 Episode 8, Fool's Gold, of Game Changer. The premise? Various members of the Dropout cast pitched insane ideas to the three cast members posing as investors, a la Shark Tank. Each insane idea, if funded, led to a video being immediately posted on the Dropout social media channels. The video with the most engagement after a month will win the episode! 
+
+I'm an impatient woman, so I want to keep an eye on how the contest is going. [Grant O'Brien](https://dropout.fandom.com/wiki/Grant_O%27Brien) has been responding to Instagram comments (including mine, YAY!) on his video, and I hope this strategy hands him the win! 
+
+## Dropout X Data
+
+As a Dropout fan and data nerd, I took it upon myself to set up a mechanism to track pitch likes on Instagram. I'll be investigating all ten pitches at 8pm CDT every day until the winner is announced and making charts. Check back on this post for updates!
+
+### How's it going?
+
+::: {layout-ncol=2}
+
+![](plots/day1.png)
+![](plots/more-soon.png)
+
+:::
+
+
+## Ashley, this is mildly insane! Can I see your code?
+
+I keep all of my ridiculous side quests in a [GitHub repo](https://github.com/ashleymullan/side_quests). Check out the Game Changer subfolder if you want to grab the data or reproduce some of the plots! Full disclosure, I use Canva to put the plots into the logo-themed backdrop. It's a mess to do that programmatically, I tried. 😔
+
+## Time for a plot twist 📖
+
+All this Game Changer talk reminds me how much I love games. Did you know that the [board game industry](https://www.statista.com/outlook/amo/app/games/board-games/worldwide) was worth $4.47B in US dollars in 2025? I guess the world loves games too!
+
