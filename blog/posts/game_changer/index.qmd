@@ -22,9 +22,12 @@ As a Dropout fan and data nerd, I took it upon myself to set up a mechanism to t
 ::: {layout-ncol=2}
 
 ![](plots/day1.png)
-![](plots/more-soon.png)
 
 ![](plots/day2.png)
+
+![](plots/day3.png)
+
+![](plots/more-soon.png)
 
 
 
