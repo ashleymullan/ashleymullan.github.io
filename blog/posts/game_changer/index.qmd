@@ -29,6 +29,8 @@ As a Dropout fan and data nerd, I took it upon myself to set up a mechanism to t
 
 ![](plots/day4.png)
 
+![](plots/day5.png)
+
 ![](plots/more-soon.png)
 
 
