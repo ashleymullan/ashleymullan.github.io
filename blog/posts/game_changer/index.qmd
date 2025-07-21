@@ -19,15 +19,9 @@ As a Dropout fan and data nerd, I took it upon myself to set up a mechanism to t
 
 ### How's it going?
 
-::: {layout-ncol=2}
-
 ![](plots/week1.gif)
 
 ![](plots/more-soon.png)
-
-
-
-:::
 
 
 ## Ashley, this is mildly insane! Can I see your code?
