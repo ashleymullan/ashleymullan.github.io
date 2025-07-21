@@ -19,9 +19,13 @@ As a Dropout fan and data nerd, I took it upon myself to set up a mechanism to t
 
 ### How's it going?
 
-![](plots/week1.gif)
+::: {layout-nrow=2}
+![](plots/week1.gif){height=4in}
 
-![](plots/more-soon.png)
+![](plots/more-soon.png){height=4in}
+:::
+
+
 
 
 ## Ashley, this is mildly insane! Can I see your code?
