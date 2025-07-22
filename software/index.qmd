@@ -65,7 +65,7 @@ POSSUM has functions implementing the maximum likelihood estimator for Poisson r
 
 ### I'm a Big Fan
 
-::: {layout-ncol=4}
+::: {layout-ncol=5}
 
 🎨 [ggplot2](https://ggplot2.tidyverse.org/) 
 
@@ -74,6 +74,8 @@ POSSUM has functions implementing the maximum likelihood estimator for Poisson r
 🎵 [gm](https://github.com/flujoo/gm) 
 
 🤣 [memer](https://github.com/sctyner/memer)
+
+🔔 [beepr](https://cran.r-project.org/web/packages/beepr/index.html)
 
 :::
 

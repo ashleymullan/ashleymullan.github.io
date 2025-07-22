@@ -12,17 +12,28 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ## Coming Soon to Theaters
 
-1. **Guest Lecture**: Statistics in Your Own Backyard </br>
+<!--  to add: possibly the teamwork session at WSDS and all of the IDWSDS stuff  -->
+1. **Invited Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+*Women in Statistics and Data Science Conference* - *November 2025* </br>
+<span style="color:#cc00cc;"> Slides </span>
+
+2. **Contributed Talk**: A Two-Pronged Approach for Identifying and Addressing Problematic Psychotropic Overprescription Patterns </br>
+in the Child Welfare System </br>
+*Transformational Collaborative Outcomes Management Conference* </br> 
+*October 2025* </br>
+<span style="color:#cc00cc;"> Slides </span> <span style="color:gray;"> (jointly presented with T. Kuhn) </span>
+
+3. **Guest Lecture**: Statistics in Your Own Backyard </br>
 *Day of Discovery, Vanderbilt University* - *September 2025* </br>
 [Slides](materials/day-of-disc.pdf)
 <!--  -
 [App]( https://ashley-mullan.shinyapps.io/day-of-disc/)  -->
 
-2. **Contributed E-Poster**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+4. **Contributed E-Poster**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *Joint Statistical Meetings* - *August 2025* </br>
 <span style="color:#cc00cc;"> Poster </span>
 
-3. **Invited Panel**: Beyond Academia - Exploring Statistics Careers in </br> Industry, Government, and More </br>
+5. **Invited Panel**: Beyond Academia - Exploring Statistics Careers in </br> Industry, Government, and More </br>
 *Joint Statistical Meetings* - *August 2025* </br>
 I'm chairing this [panel](https://cens-enar.github.io/cens_website/events/abstracts/jsm25.html)!
 

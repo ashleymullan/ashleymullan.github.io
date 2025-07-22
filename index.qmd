@@ -25,9 +25,9 @@ about:
 
 # 👋 Hi, and welcome to my website! 
 
-I'm **Ashley**, a Ph.D. student and research assistant in the <a href="https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics" target="_blank">Department of Biostatistics</a> at Vanderbilt University Medical Center. These days, I work with [Dr. Rameela Raman](https://www.vumc.org/biostatistics/person/rameela-raman) and her team on collaborative projects with the [Tennessee Department of Children's Services](https://www.tn.gov/dcs.html).
+I'm **Ashley**, a Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu/biostatistics-graduate/) and research assistant in the <a href="https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics" target="_blank">Department of Biostatistics</a> at Vanderbilt University Medical Center. These days, I work with [Dr. Rameela Raman](https://www.vumc.org/biostatistics/person/rameela-raman) and her analytics team at the [Vanderbilt Center of Excellence for Children in State Custody](https://www.vumc.org/coe/person/faculty-staff) to enhance the quality of services provided to children in or at-risk of entering the Tennessee child welfare or juvenile justice systems.
 
-I recently earned my master's degree from the <a href="https://stats.wfu.edu" target="_blank">Department of Statistical Sciences</a> at Wake Forest University, where I worked with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access. Go Deacs! 🎩
+I earned my master's degree from the <a href="https://stats.wfu.edu" target="_blank">Department of Statistical Sciences</a> at Wake Forest University, where I worked with [Dr. Sarah Lotspeich](https://www.sarahlotspeich.com/) on methods to handle measurement error and their exciting applications to the study of local food access. Go Deacs! 🎩
 
 Before heading to graduate school, I studied applied mathematics with [Dr. Murong Xu](https://sites.google.com/prod/view/murongxu/home) and philosophy in the [Special Jesuit Liberal Arts](https://catalog.scranton.edu/preview_program.php?catoid=56&poid=8330&hl=%22special+jesuit%22&returnto=search) program at the University of Scranton. Go Royals! 💜
 
