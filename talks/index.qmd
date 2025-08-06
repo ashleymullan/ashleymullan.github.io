@@ -31,7 +31,7 @@ in the Child Welfare System </br>
 
 4. **Contributed E-Poster**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *Joint Statistical Meetings* - *August 2025* </br>
-<span style="color:#cc00cc;"> Poster </span>
+[Poster](materials/jsm-25-poster.pdf) - [Slides](materials/jsm-25-slides.pdf)
 
 5. **Invited Panel**: Beyond Academia - Exploring Statistics Careers in </br> Industry, Government, and More </br>
 *Joint Statistical Meetings* - *August 2025* </br>
