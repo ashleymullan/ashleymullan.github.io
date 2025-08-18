@@ -1,0 +1,23 @@
+---
+title: "Ok, but like why are other (bio)statisticians so cool?"
+date: "8/07/2025"
+date-modified: last-modified
+author: "Ashley E. Mullan"
+format:
+  html:
+    self-contained: true
+---
+
+## Here's my chance to nerd out over other people's research!
+
+I love going to (bio)statistics conferences for many reasons, but I especially enjoy hearing about the cool things other folks are doing! Learning with and from other (bio)statisticians rocks! This blog post will be my space to collect bits and pieces from presentations I've come across and wanted to save.
+
+### JSM 2025
+1. [Miguel Fudolig's talk on data viz in public health](https://madfudolig.quarto.pub/seminar/npha.html#/title-slide)
+2. [Megan Heyman's talk on modeling research with students](https://meganheyman.github.io/JSM2025.html)
+
+## Time for a plot twist 📖
+
+plot twist here
+
+
