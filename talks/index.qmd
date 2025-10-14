@@ -12,87 +12,92 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ## Coming Soon to Theaters
 
-<!--  to add: possibly the teamwork session at WSDS and all of the IDWSDS stuff  -->
+<!--  to add: possibly the teamwork session at WSDS and IDWSDS recordings  -->
 1. **Invited Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *Women in Statistics and Data Science Conference* - *November 2025* </br>
 <span style="color:#cc00cc;"> Slides </span>
 
-2. **Contributed Talk**: A Two-Pronged Approach for Identifying and Addressing Problematic Psychotropic Overprescription Patterns </br>
-in the Child Welfare System </br>
-*Transformational Collaborative Outcomes Management Conference* </br> 
-*October 2025* </br>
-<span style="color:#cc00cc;"> Slides </span> <span style="color:gray;"> (jointly presented with T. Kuhn) </span>
+2. **Invited Talk**: Talking Over a Football Game: </br> The Taylor Swift Effect on Football Podcast Popularity </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
+[Slides](materials/IDWSDS-25-tay.pdf) 
 
-3. **Guest Lecture**: Statistics in Your Own Backyard </br>
-*Day of Discovery, Vanderbilt University* - *September 2025* </br>
-[Slides](materials/day-of-disc.pdf)
-<!--  -
-[App]( https://ashley-mullan.shinyapps.io/day-of-disc/)  -->
+3. **Invited Talk**: Modeling Misclassification: Exploring the Relationship  </br> between Diabetes and Access to Healthy Food </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
+[Slides](materials/IDWSDS-25-food.pdf) 
+
 
 
 <!-- to add: TCOM -->
 
 ## Highlight Reel
 
-1. **Contributed E-Poster**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+1. **Contributed Talk**: A Two-Pronged Approach for Identifying and Addressing Problematic Psychotropic Overprescription Patterns </br>
+in the Child Welfare System </br>
+*Transformational Collaborative Outcomes Management Conference* </br> 
+*October 2025* </br>
+<span style="color:#cc00cc;"> Slides </span> <span style="color:gray;"> (jointly presented with T. Kuhn) </span>
+
+2. **Guest Lecture**: Statistics in Your Own Backyard </br>
+*Day of Discovery, Vanderbilt University* - *September 2025* </br>
+[Slides](materials/day-of-disc.pdf)
+
+3. **Contributed E-Poster**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *Joint Statistical Meetings* - *August 2025* </br>
 [Poster](materials/jsm-25-poster.pdf) - [Slides](materials/jsm-25-slides.pdf)
 
-2. **Invited Panel**: Beyond Academia - Exploring Statistics Careers in </br> Industry, Government, and More </br>
+4. **Invited Panel**: Beyond Academia - Exploring Statistics Careers in </br> Industry, Government, and More </br>
 *Joint Statistical Meetings* - *August 2025* </br>
 I'm chairing this [panel](https://cens-enar.github.io/cens_website/events/abstracts/jsm25.html)!
 
-3. **Contributed Poster**: Visualizing Cost Effectiveness Analysis with </br> Second-Generation Acceptability Curves </br>
+5. **Contributed Poster**: Visualizing Cost Effectiveness Analysis with </br> Second-Generation Acceptability Curves </br>
 *ENAR Spring Meeting* - *March 2025* </br>
 [Poster](materials/enar_25_poster.pdf)
 
-4. **Guest Lecture**: Statistical Ideas You Can Never Unsee </br> *PSYCH1130, Cornell University* - *March 2025* </br>
+6. **Guest Lecture**: Statistical Ideas You Can Never Unsee </br> *PSYCH1130, Cornell University* - *March 2025* </br>
 [Slides](materials/cornell2.pdf) -
 [App]( https://ashley-mullan.shinyapps.io/cornell/) 
 
-5. **Invited Talk**: Refining Your Path: Correcting for Misclassification in </br>
+7. **Invited Talk**: Refining Your Path: Correcting for Misclassification in </br>
 Healthy Food Access </br> *Department of Mathematics, University of Scranton* - *March 2025* </br>
 [Slides](materials/scranton-math-25.pdf)
 
-6. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *February 2025* </br>
+8. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *February 2025* </br>
 [Slides](materials/ssmv.pdf) - [Example](https://docs.google.com/spreadsheets/d/1VX64Wa2KaxGssq5m6BbMT-27dtyYObdHMEBMJXInEGw/edit?usp=sharing) 
 
-7. **Invited Panel**: Graduate Admissions Advice </br>
+9. **Invited Panel**: Graduate Admissions Advice </br>
 *Electronic Undergraduate Student Research Conference* </br> *November 2024*
 
-8. **Contributed Poster**: Adjusting for covariate misclassification to quantify the relationship between diabetes and local access to healthy food </br>
+10. **Contributed Poster**: Adjusting for covariate misclassification to quantify the relationship between diabetes and local access to healthy food </br>
 *Women in Statistics and Data Science Conference* - *October 2024* </br>
 [Poster](materials/wsds_24_poster.png)
 
-9. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* - *October 2024* </br>
+11. **Invited Talk**: For Better or For Worse: The First Kiss  </br> Effect on TV Ratings </br> *International Day of Women in Statistics and Data Science* - *October 2024* </br>
 [Slides](materials/IDWSDS-24.pdf) - [Recording](https://youtu.be/v45ym5ULkGs?feature=shared)
 
-10. **Guest Lecture**: Stats can be fun, I swear! </br> *PSYCH1130, Cornell University* - *September 2024* </br>
+12. **Guest Lecture**: Stats can be fun, I swear! </br> *PSYCH1130, Cornell University* - *September 2024* </br>
 [Slides](materials/cornell.pdf) - [App](https://ashley-mullan.shinyapps.io/lecture-app/)
 
-11. **Master's Thesis Defense**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *Wake Forest University* - *April 2024* </br>
+13. **Master's Thesis Defense**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *Wake Forest University* - *April 2024* </br>
 [Slides](materials/ms_defense_slides.pdf)
   
-12. **Contributed Talk**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *ENAR Spring Meeting* - *March 2024* </br>
+14. **Contributed Talk**: Adjusting for Measurement Error to Quantify the Relationship Between Diabetes and Local Access to Healthy Food </br> *ENAR Spring Meeting* - *March 2024* </br>
 [Slides](materials/enar_24_slides.pdf)
 
-13. **Contributed Poster**: Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television </br> Couples and Episode Ratings </br> *Women in Statistics and Data Science* - *October 2023* </br>
+15. **Contributed Poster**: Rate This Interruption: Using Interrupted Time Series Techniques to Analyze Popular Television </br> Couples and Episode Ratings </br> *Women in Statistics and Data Science* - *October 2023* </br>
 [Poster](materials/wsds_23_poster.pdf)
 
-14. **Contributed Poster**: Music Feature Classification: Using Techniques of Machine Learning to Detect Genre </br> *MAA MathFest* - *August 2022* </br>
+16. **Contributed Poster**: Music Feature Classification: Using Techniques of Machine Learning to Detect Genre </br> *MAA MathFest* - *August 2022* </br>
 [Poster](materials/mathfest_thesis_poster.pdf)
 
-15. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Joint Mathematics Meetings* - *April 2022* </br>
+17. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Joint Mathematics Meetings* - *April 2022* </br>
 [Poster](materials/cc_reu_poster.pdf)
 
-16. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *SACNAS NDiSTEM Conference* - *August 2021*
+18. **Contributed Poster**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *SACNAS NDiSTEM Conference* - *August 2021*
 </br>
 [Poster](materials/cc_reu_poster.pdf)
 
-17. **Featured Talk**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Mount Stuart Mathematics Seminar Series* - *August 2021* </br>
+19. **Featured Talk**: Deal or No Deal: Modeling a Game Show with Utility Theory and Machine Learning </br> *Mount Stuart Mathematics Seminar Series* - *August 2021* </br>
 [Slides](materials/cc_reu_slides.pdf)
 
-18. **Featured Talk**: A Puck Above the Rest: The Effects of New Data on 2020 NHL Draft Decisions </br> *Carnegie Mellon Sports Analytics Conference* - *October 2020* </br>
+20. **Featured Talk**: A Puck Above the Rest: The Effects of New Data on 2020 NHL Draft Decisions </br> *Carnegie Mellon Sports Analytics Conference* - *October 2020* </br>
 [Slides](https://stat.cmu.edu/cmsac/conference/2020/assets/pdf/nhl_draft_update.pdf)
 
 
