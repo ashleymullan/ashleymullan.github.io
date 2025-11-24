@@ -32,6 +32,7 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 5. [SQL Cheat Sheet](https://x.com/thenaijacarguy/status/1818051495553552536?s=12)
 6. [Docker & Containers](https://gjhunt.github.io/repro_course/)
 7. [Gorgeous R Tables](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r)
+8. [Writing R Packages](https://github.com/jacobbien/litr-project)
 
 ### Data, Data, and More Data
 1. [General Social Survey](https://gss.norc.org/us/en/gss/get-the-data.html)
