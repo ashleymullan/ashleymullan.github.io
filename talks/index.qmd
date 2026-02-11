@@ -12,57 +12,58 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ## Coming Soon to Theaters
 
-<!--  to add: possibly the teamwork session at WSDS -->
+1. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
+[Slides](materials/ssmv.pdf) <!-- update these with the tweaked copy -->
+
+
+## Highlight Reel
+
+::: {.panel-tabset}
+
+### 2025 
+<!-- to add: TCOM slides, idwsds recordings -->
+
 1. **Invited Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *Women in Statistics and Data Science Conference* - *November 2025* </br>
 [Slides](materials/wsds-25-food.pdf) 
 
-
-
-
-<!-- to add: TCOM slides, idwsds recordings -->
-
-## Highlight Reel
-
-### 2025
-
-1. **Invited Talk**: Talking Over a Football Game: </br> The Taylor Swift Effect on Football Podcast Popularity </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
+2. **Invited Talk**: Talking Over a Football Game: </br> The Taylor Swift Effect on Football Podcast Popularity </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
 [Slides](materials/IDWSDS-25-tay.pdf) 
 
-2. **Invited Talk**: Modeling Misclassification: Exploring the Relationship  </br> between Diabetes and Access to Healthy Food </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
+3. **Invited Talk**: Modeling Misclassification: Exploring the Relationship  </br> between Diabetes and Access to Healthy Food </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
 [Slides](materials/IDWSDS-25-food.pdf) 
 
-3. **Contributed Talk**: A Two-Pronged Approach for Identifying and Addressing Problematic Psychotropic Overprescription Patterns </br>
+4. **Contributed Talk**: A Two-Pronged Approach for Identifying and Addressing Problematic Psychotropic Overprescription Patterns </br>
 in the Child Welfare System </br>
 *Transformational Collaborative Outcomes Management Conference* </br> 
 *October 2025* </br>
 <span style="color:#cc00cc;"> Slides </span> <span style="color:gray;"> (jointly presented with T. Kuhn) </span>
 
-4. **Guest Lecture**: Statistics in Your Own Backyard </br>
+5. **Guest Lecture**: Statistics in Your Own Backyard </br>
 *Day of Discovery, Vanderbilt University* - *September 2025* </br>
 [Slides](materials/day-of-disc.pdf)
 
-5. **Contributed E-Poster**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+6. **Contributed E-Poster**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *Joint Statistical Meetings* - *August 2025* </br>
 [Poster](materials/jsm-25-poster.pdf) - [Slides](materials/jsm-25-slides.pdf)
 
-6. **Invited Panel**: Beyond Academia - Exploring Statistics Careers in </br> Industry, Government, and More </br>
+7. **Invited Panel**: Beyond Academia - Exploring Statistics Careers in </br> Industry, Government, and More </br>
 *Joint Statistical Meetings* - *August 2025* </br>
 I'm chairing this [panel](https://cens-enar.github.io/cens_website/events/abstracts/jsm25.html)!
 
-7. **Contributed Poster**: Visualizing Cost Effectiveness Analysis with </br> Second-Generation Acceptability Curves </br>
+8. **Contributed Poster**: Visualizing Cost Effectiveness Analysis with </br> Second-Generation Acceptability Curves </br>
 *ENAR Spring Meeting* - *March 2025* </br>
 [Poster](materials/enar_25_poster.pdf)
 
-8. **Guest Lecture**: Statistical Ideas You Can Never Unsee </br> *PSYCH1130, Cornell University* - *March 2025* </br>
+9. **Guest Lecture**: Statistical Ideas You Can Never Unsee </br> *PSYCH1130, Cornell University* - *March 2025* </br>
 [Slides](materials/cornell2.pdf) -
 [App]( https://ashley-mullan.shinyapps.io/cornell/) 
 
-9. **Invited Talk**: Refining Your Path: Correcting for Misclassification in </br>
+10. **Invited Talk**: Refining Your Path: Correcting for Misclassification in </br>
 Healthy Food Access </br> *Department of Mathematics, University of Scranton* - *March 2025* </br>
 [Slides](materials/scranton-math-25.pdf)
 
-10. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *February 2025* </br>
+11. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *February 2025* </br>
 [Slides](materials/ssmv.pdf) - [Example](https://docs.google.com/spreadsheets/d/1VX64Wa2KaxGssq5m6BbMT-27dtyYObdHMEBMJXInEGw/edit?usp=sharing) 
 
 ### 2024
@@ -113,6 +114,7 @@ Healthy Food Access </br> *Department of Mathematics, University of Scranton* - 
 1. **Featured Talk**: A Puck Above the Rest: The Effects of New Data on 2020 NHL Draft Decisions </br> *Carnegie Mellon Sports Analytics Conference* - *October 2020* </br>
 [Slides](https://stat.cmu.edu/cmsac/conference/2020/assets/pdf/nhl_draft_update.pdf)
 
+:::
 
 
 :::
