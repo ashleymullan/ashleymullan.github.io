@@ -33,6 +33,10 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 6. [Docker & Containers](https://gjhunt.github.io/repro_course/)
 7. [Gorgeous R Tables](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r)
 8. [Writing R Packages](https://github.com/jacobbien/litr-project)
+9. [The R Inferno](https://burns-stat.com/pages/Tutor/R_inferno.pdf)
+
+### Methods Tutorials I've Found Useful
+1. [Linear Mixed Modeling](https://www.crumplab.com/psyc7709_2019/book/docs/a-tutorial-for-using-the-lme-function-from-the-nlme-package-.html)
 
 ### Data, Data, and More Data
 1. [General Social Survey](https://gss.norc.org/us/en/gss/get-the-data.html)

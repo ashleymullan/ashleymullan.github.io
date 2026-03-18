@@ -11,14 +11,19 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 ::: {.column width="78%"}
 
 ## Coming Soon to Theaters
+1. **Contributed Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+*ENAR Spring Meeting* - *March 2026* </br>
+[Slides](materials/enar_26_slides.pdf)
 
-1. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
-[Slides](materials/ssmv.pdf) <!-- update these with the tweaked copy -->
 
 
 ## Highlight Reel
 
 ::: {.panel-tabset}
+
+### 2026
+1. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
+[Slides](materials/ssmv.pdf) <!-- update these with the tweaked copy -->
 
 ### 2025 
 <!-- to add: TCOM slides, idwsds recordings -->
