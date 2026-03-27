@@ -11,32 +11,34 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 ::: {.column width="78%"}
 
 ## Coming Soon to Theaters
-1. **Contributed Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
-*ENAR Spring Meeting* - *March 2026* </br>
-[Slides](materials/enar_26_slides.pdf)
 
-
+Check back soon for updates!
 
 ## Highlight Reel
 
 ::: {.panel-tabset}
 
 ### 2026
-1. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
-[Slides](materials/ssmv.pdf) <!-- update these with the tweaked copy -->
+
+1. **Contributed Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+*ENAR Spring Meeting* - *March 2026* </br>
+[Slides](materials/enar_26_slides.pdf)
+
+2. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
+[Slides](materials/ssmv_2026.pdf) 
 
 ### 2025 
-<!-- to add: TCOM slides, idwsds recordings -->
+<!-- to add: TCOM slides, idwsds recording of food talk -->
 
 1. **Invited Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *Women in Statistics and Data Science Conference* - *November 2025* </br>
 [Slides](materials/wsds-25-food.pdf) 
 
 2. **Invited Talk**: Talking Over a Football Game: </br> The Taylor Swift Effect on Football Podcast Popularity </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
-[Slides](materials/IDWSDS-25-tay.pdf) 
+[Slides](materials/IDWSDS-25-tay.pdf) - [Recording](https://www.youtube.com/watch?v=a1aRRIzd_Xs)
 
 3. **Invited Talk**: Modeling Misclassification: Exploring the Relationship  </br> between Diabetes and Access to Healthy Food </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
-[Slides](materials/IDWSDS-25-food.pdf) 
+[Slides](materials/IDWSDS-25-food.pdf) <!-- - [Recording]() -->
 
 4. **Contributed Talk**: A Two-Pronged Approach for Identifying and Addressing Problematic Psychotropic Overprescription Patterns </br>
 in the Child Welfare System </br>
