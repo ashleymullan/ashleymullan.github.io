@@ -8,9 +8,9 @@ format:
 ---
 
 
-## Sometimes, *Mickey Mouse Clubhouse* gets it right.
+## Sometimes, Mickey Mouse Clubhouse gets it right.
 
-In my research, I often use interactive plotting tools to summarize my data. Many of my reports use `plotly`, which is sadly [losing support in R.](https://community.plotly.com/t/retire-the-documentation-for-r-matlab-julia-and-f/94147?_gl=1) Recently, I've been learning more about other options that support interactive R plots, which inspired a class presentation summarizing my findings. Check out this [demo](tech-tools.html) I put together!
+Ever heard of the [Mickey Mouse Clubhouse](https://disney.fandom.com/wiki/Mickey_Mouse_Clubhouse) bit where they talk about surprise tools? In my research, I often use interactive plotting tools to summarize my data. Many of my reports use `plotly`, which is sadly [losing support in R.](https://community.plotly.com/t/retire-the-documentation-for-r-matlab-julia-and-f/94147?_gl=1) Recently, I've been learning more about other options that support interactive R plots, which inspired a class presentation summarizing my findings. Check out this [demo](tech-tools.html) I put together!
 
 ## Time for a plot twist 📖
 
