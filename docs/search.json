@@ -228,7 +228,7 @@
     "href": "blog/posts/reference/index.html#links-links-and-more-links",
     "title": "A Handy Reference",
     "section": "Links, links, and more links! 🔗",
-    "text": "Links, links, and more links! 🔗\n\nSome Handy Definitions\n\nThe Catalogue of Bias\n\n\n\nFor New R Converts\n\nSwirl\nDiscovR\nTinyStats\nR4DS\n\n\n\nFor Tech Enthusiasts Only\n\nPosit’s Cheat Sheets\nScrollyTell\nAnnotating Quarto Code\nBase R Plotting Tips\nSQL Cheat Sheet\nDocker & Containers\nGorgeous R Tables\n\n\n\nData, Data, and More Data\n\nGeneral Social Survey\nKaggle\nUC Irvine Repo\nStatSci\nData is Plural Spreadsheet (thanks to Jeremy Singer)\nRdatasets Package (thanks to Vincent Arel-Bundock)\nDataSetsVerse Package (thanks to Andres Renzo Caceres Rossi)\nDiversityDataKids\n\n\n\nSome Professional Advice and Opportunities\n\nASA Postdoc Association\nENAR CENS (Council for Emerging and New Statisticians)\n\n\n\nFunding Opportunities for Early Career Folks\n\nASA Early Career Travel Fund\nENAR Fostering Diversity Grant\nA Collection of Conference Travel Grants\n\n\n\nSome Miscellaneous Items\n\nPaul’s Online Math Notes: Everything You Ever Needed in Calculus"
+    "text": "Links, links, and more links! 🔗\n\nSome Handy Definitions\n\nThe Catalogue of Bias\n\n\n\nFor New R Converts\n\nSwirl\nDiscovR\nTinyStats\nR4DS\n\n\n\nFor Tech Enthusiasts Only\n\nPosit’s Cheat Sheets\nScrollyTell\nAnnotating Quarto Code\nBase R Plotting Tips\nSQL Cheat Sheet\nDocker & Containers\nGorgeous R Tables\nWriting R Packages\nThe R Inferno\n\n\n\nMethods Tutorials I’ve Found Useful\n\nLinear Mixed Modeling\n\n\n\nData, Data, and More Data\n\nGeneral Social Survey\nKaggle\nUC Irvine Repo\nStatSci\nData is Plural Spreadsheet (thanks to Jeremy Singer)\nRdatasets Package (thanks to Vincent Arel-Bundock)\nDataSetsVerse Package (thanks to Andres Renzo Caceres Rossi)\nDiversityDataKids\n\n\n\nSome Professional Advice and Opportunities\n\nASA Postdoc Association\nENAR CENS (Council for Emerging and New Statisticians)\n\n\n\nFunding Opportunities for Early Career Folks\n\nASA Early Career Travel Fund\nENAR Fostering Diversity Grant\nA Collection of Conference Travel Grants\n\n\n\nSome Miscellaneous Items\n\nPaul’s Online Math Notes: Everything You Ever Needed in Calculus"
   },
   {
     "objectID": "blog/posts/reference/index.html#time-for-a-plot-twist",
@@ -340,14 +340,14 @@
     "href": "blog/posts/cheerleading/index.html",
     "title": "Ok, but like why are other (bio)statisticians so cool?",
     "section": "",
-    "text": "I love going to (bio)statistics conferences for many reasons, but I especially enjoy hearing about the cool things other folks are doing! Learning with and from other (bio)statisticians rocks! This blog post will be my space to collect bits and pieces from presentations I’ve come across and wanted to save.\n\n\n\nMiguel Fudolig’s talk on data viz in public health"
+    "text": "I love going to (bio)statistics conferences for many reasons, but I especially enjoy hearing about the cool things other folks are doing! Learning with and from other (bio)statisticians rocks! This blog post will be my space to collect bits and pieces from presentations I’ve come across and wanted to save.\n\n\n\nMiguel Fudolig’s talk on data viz in public health\nMegan Heyman’s talk on modeling research with students"
   },
   {
     "objectID": "blog/posts/cheerleading/index.html#heres-my-chance-to-nerd-out-over-other-peoples-research",
     "href": "blog/posts/cheerleading/index.html#heres-my-chance-to-nerd-out-over-other-peoples-research",
     "title": "Ok, but like why are other (bio)statisticians so cool?",
     "section": "",
-    "text": "I love going to (bio)statistics conferences for many reasons, but I especially enjoy hearing about the cool things other folks are doing! Learning with and from other (bio)statisticians rocks! This blog post will be my space to collect bits and pieces from presentations I’ve come across and wanted to save.\n\n\n\nMiguel Fudolig’s talk on data viz in public health"
+    "text": "I love going to (bio)statistics conferences for many reasons, but I especially enjoy hearing about the cool things other folks are doing! Learning with and from other (bio)statisticians rocks! This blog post will be my space to collect bits and pieces from presentations I’ve come across and wanted to save.\n\n\n\nMiguel Fudolig’s talk on data viz in public health\nMegan Heyman’s talk on modeling research with students"
   },
   {
     "objectID": "blog/posts/cheerleading/index.html#time-for-a-plot-twist",
@@ -355,5 +355,33 @@
     "title": "Ok, but like why are other (bio)statisticians so cool?",
     "section": "Time for a plot twist 📖",
     "text": "Time for a plot twist 📖\nplot twist here"
+  },
+  {
+    "objectID": "blog/posts/tech_tips/index.html",
+    "href": "blog/posts/tech_tips/index.html",
+    "title": "This is a surprise tool that’ll help us later!",
+    "section": "",
+    "text": "In my research, I often use interactive plotting tools to summarize my data. Many of my reports use plotly, which is sadly losing support in R. Recently, I’ve been learning more about other options that support interactive R plots, which inspired a class presentation summarizing my findings. Check out this demo I put together!"
+  },
+  {
+    "objectID": "blog/posts/tech_tips/index.html#sometimes-mickey-mouse-clubhouse-gets-it-right.",
+    "href": "blog/posts/tech_tips/index.html#sometimes-mickey-mouse-clubhouse-gets-it-right.",
+    "title": "This is a surprise tool that’ll help us later!",
+    "section": "",
+    "text": "In my research, I often use interactive plotting tools to summarize my data. Many of my reports use plotly, which is sadly losing support in R. Recently, I’ve been learning more about other options that support interactive R plots, which inspired a class presentation summarizing my findings. Check out this demo I put together!"
+  },
+  {
+    "objectID": "blog/posts/tech_tips/index.html#time-for-a-plot-twist",
+    "href": "blog/posts/tech_tips/index.html#time-for-a-plot-twist",
+    "title": "This is a surprise tool that’ll help us later!",
+    "section": "Time for a plot twist 📖",
+    "text": "Time for a plot twist 📖\nSpeaking of childhood TV, happy 20th birthday to Hannah Montana! There will DEFINITELY be a blog post coming at some point about the 20 year reunion special."
+  },
+  {
+    "objectID": "blog/index.html#this-is-a-surprise-tool-thatll-help-us-later",
+    "href": "blog/index.html#this-is-a-surprise-tool-thatll-help-us-later",
+    "title": "Do it for the plot!",
+    "section": "🔧 This is a surprise tool that’ll help us later!",
+    "text": "🔧 This is a surprise tool that’ll help us later!"
   }
 ]

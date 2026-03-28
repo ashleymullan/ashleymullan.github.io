@@ -1,0 +1,18 @@
+---
+title: "This is a surprise tool that'll help us later!"
+date: "03/28/2026"
+author: "Ashley E. Mullan"
+format:
+  html:
+    self-contained: true
+---
+
+
+## Sometimes, *Mickey Mouse Clubhouse* gets it right.
+
+In my research, I often use interactive plotting tools to summarize my data. Many of my reports use `plotly`, which is sadly [losing support in R.](https://community.plotly.com/t/retire-the-documentation-for-r-matlab-julia-and-f/94147?_gl=1) Recently, I've been learning more about other options that support interactive R plots, which inspired a class presentation summarizing my findings. Check out this [demo](tech-tools.html) I put together!
+
+## Time for a plot twist 📖
+
+Speaking of childhood TV, happy 20th birthday to Hannah Montana! There will DEFINITELY be a blog post coming at some point about the [20 year reunion special.](https://hannahmontana.fandom.com/wiki/Hannah_Montana_20th_Anniversary_Special)
+
