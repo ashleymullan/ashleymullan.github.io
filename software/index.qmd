@@ -2,80 +2,51 @@
 title: "Software"
 ---
 
-Ever since I first tried to learn C++ after school in the 11th grade, I've come a long way in the coding world! These days, I enjoy contributing to and trying out new R packages. The hex stickers are clickable; check them out!
+What, like it's hardware? No, it's software! Click on the hexes to learn more.
 
+![](legally-blonde.gif)
 
 ### I'm the Author
 
-The `visegen` package (in progress) is based on work by Nick Micheletti and visualizes cost-effectiveness curves constructed with second-generation p-values. The `wickedplyr` package (jointly written with Hannah Klinger) was inspired by [genzplyr](https://github.com/hadley/genzplyr) and [boomerplyr](https://bradlindblad.github.io/boomerplyr/) and overwrites `dplyr` functions with Wicked-themed names.
+::: {.panel-tabset}
 
-:::: {.columns}
+#### visegen
 
-::: {.column width="17%"}
-<!-- empty column to create gap -->
-:::
+The `visegen` R package (in progress) is based on work by Nick Micheletti and visualizes cost-effectiveness curves constructed with second-generation p-values.
 
-::: {.column width="30%"}
+ <img src="visegen.png" style="height: 50%; width: 50%; margin: auto; display: block; object-fit: fill" onclick="window.open('https://github.com/ashleymullan/visegen', 'blank');"/> 
+ 
+#### wickedplyr
+ 
+The `wickedplyr` R package (in progress, jointly written with Hannah Klinger) was inspired by [genzplyr](https://github.com/hadley/genzplyr) and [boomerplyr](https://bradlindblad.github.io/boomerplyr/) and overwrites `dplyr` functions with Wicked-themed names.
 
- <img src="visegen.png" style="height: 50%; width: 50%; object-fit: fill" onclick="window.open('https://github.com/ashleymullan/visegen', 'blank');"/> 
+ <img src="wickedplyr.png" style="height: 50%; margin: auto; display: block; width: 50%; object-fit: fill" onclick="window.open('https://github.com/ashleymullan/wickedplyr', 'blank');"/> 
  
 :::
 
-::: {.column width="6%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="30%"}
-
- <img src="wickedplyr.png" style="height: 50%; width: 50%; object-fit: fill" onclick="window.open('https://github.com/ashleymullan/wickedplyr', 'blank');"/> 
- 
-:::
-
-::: {.column width="17%"}
-
-<!-- empty column to create gap -->
-
-:::
-
-::::
 
 ### I'm a Contributor
 
-POSSUM has functions implementing the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master's thesis, while ThemePark has functions implementing a ggplot theme I designed in honor of Taylor Swift's newest album, *The Tortured Poets Department*. 
+::: {.panel-tabset}
 
-:::: {.columns}
+#### possum
 
-::: {.column width="17%"}
-<!-- empty column to create gap -->
-:::
+Along with other fun tools for not-so-perfect count outcomes, the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master's thesis lives in the `possum` R package!
 
-::: {.column width="30%"}
+ <img src="possum.png" style="height: 50%; width: 50%; margin: auto; display: block; object-fit: fill" onclick="window.open('https://github.com/sarahlotspeich/possum', 'blank');"/> 
+ 
+#### ThemePark
 
- <img src="possum.png" style="height: 50%; width: 50%; object-fit: fill" onclick="window.open('https://github.com/sarahlotspeich/possum', 'blank');"/> 
+Along with other cool ways to jazz up your ggplot, my *The Tortured Poets Department* ggplot theme lives in the ThemePark R package.
+
+ <img src="themePark.png" style="height: 50%; width: 50%; margin: auto; display: block; object-fit: fill" onclick="window.open('https://github.com/MatthewBJane/ThemePark', 'blank');"/> 
  
 :::
 
-::: {.column width="6%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="30%"}
-
- <img src="themePark.png" style="height: 50%; width: 50%; object-fit: fill" onclick="window.open('https://github.com/MatthewBJane/ThemePark', 'blank');"/> 
- 
-:::
-
-::: {.column width="17%"}
-
-<!-- empty column to create gap -->
-
-:::
-
-::::
 
 ### I'm a Big Fan
 
-::: {layout-ncol=5}
+::: {layout-ncol=4}
 
 🎨 [ggplot2](https://ggplot2.tidyverse.org/) 
 
@@ -86,6 +57,12 @@ POSSUM has functions implementing the maximum likelihood estimator for Poisson r
 🤣 [memer](https://github.com/sctyner/memer)
 
 🔔 [beepr](https://cran.r-project.org/web/packages/beepr/index.html)
+
+🥰 [praise](https://cran.r-project.org/web/packages/praise/index.html)
+
+📜 [gt](https://gt.rstudio.com/)
+
+🦒 [ggiraph](https://davidgohel.github.io/ggiraph/)
 
 :::
 

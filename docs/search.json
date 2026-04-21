@@ -39,7 +39,7 @@
     "href": "software/index.html",
     "title": "Software",
     "section": "",
-    "text": "Ever since I first tried to learn C++ after school in the 11th grade, I’ve come a long way in the coding world! These days, I enjoy contributing to and trying out new R packages. The hex stickers are clickable; check them out!\n\nI’m the Author\nThe visegen package (in progress) is based on work by Nick Micheletti and visualizes cost-effectiveness curves constructed with second-generation p-values. The wickedplyr package (jointly written with Hannah Klinger) was inspired by genzplyr and boomerplyr and overwrites dplyr functions with Wicked-themed names.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Contributor\nPOSSUM has functions implementing the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master’s thesis, while ThemePark has functions implementing a ggplot theme I designed in honor of Taylor Swift’s newest album, The Tortured Poets Department.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Big Fan\n\n\n\n\n\n\n🎨 ggplot2\n\n\n🗺️ tidycensus\n\n\n🎵 gm\n\n\n🤣 memer\n\n\n🔔 beepr"
+    "text": "What, like it’s hardware? No, it’s software! Click on the hexes to learn more.\n\n\nI’m the Author\n\nvisegenwickedplyr\n\n\nThe visegen R package (in progress) is based on work by Nick Micheletti and visualizes cost-effectiveness curves constructed with second-generation p-values.\n\n\n\nThe wickedplyr R package (in progress, jointly written with Hannah Klinger) was inspired by genzplyr and boomerplyr and overwrites dplyr functions with Wicked-themed names.\n\n\n\n\n\n\nI’m a Contributor\n\npossumThemePark\n\n\nAlong with other fun tools for not-so-perfect count outcomes, the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master’s thesis lives in the possum R package!\n\n\n\nAlong with other cool ways to jazz up your ggplot, my The Tortured Poets Department ggplot theme lives in the ThemePark R package.\n\n\n\n\n\n\nI’m a Big Fan\n\n\n\n\n\n\n🎨 ggplot2\n\n\n🗺️ tidycensus\n\n\n🎵 gm\n\n\n🤣 memer\n\n\n\n\n🔔 beepr\n\n\n🥰 praise\n\n\n📜 gt\n\n\n🦒 ggiraph"
   },
   {
     "objectID": "talks/index.html",
@@ -116,7 +116,7 @@
     "href": "blog/index.html",
     "title": "Do it for the plot!",
     "section": "",
-    "text": "Welcome to my blog, “Do it for the plot!” I’ve always got a side quest (or two or three) going, whether the goal is to sneak a personal hobby into the stats world or to pick up a new skill. My blog will feature some of my favorite projects. Check them out!"
+    "text": "Welcome to my blog, “Do it for the plot!” I’ve always got a side quest (or two or three) going, whether the goal is to sneak a personal hobby into the stats world or to pick up a new skill. My blog will feature some of my favorite projects. Check them out!\n\n\n\n\n\n\n\n🔧 This is a surprise tool that’ll help us later!\n\n\n🦈 Someone needs to take my TV privileges away.\n\n\n🤔 Hmm, these are cool.\n\n\n📺 An exercise in statistical and television programming\n\n\n🍿 See, I can do stats and watch Netflix at the same time!\n\n\n🚨 Warning, it’s about to get punny!"
   },
   {
     "objectID": "blog/index.html#warning-its-about-to-get-punny",
@@ -247,7 +247,7 @@
   {
     "objectID": "papers/index.html",
     "href": "papers/index.html",
-    "title": "Publications",
+    "title": "Publications & Media",
     "section": "",
     "text": "What good is science if the world doesn’t see it?"
   },
@@ -268,7 +268,7 @@
   {
     "objectID": "papers/index.html#peer-reviewed",
     "href": "papers/index.html#peer-reviewed",
-    "title": "Publications",
+    "title": "Publications & Media",
     "section": "Peer-Reviewed",
     "text": "Peer-Reviewed\n\nS.C. Lotspeich, A.E. Mullan, L. D’Agostino McGowan, and S.A. Hepler, “Combining straight-line and map-based distances to investigate the connection between proximity to healthy foods and disease,” Statistics in Medicine, vol. 44, no. 7, pp. e70054, 2025.  Paper - Software"
   },
@@ -282,9 +282,9 @@
   {
     "objectID": "papers/index.html#submitted-manuscripts",
     "href": "papers/index.html#submitted-manuscripts",
-    "title": "Publications",
+    "title": "Publications & Media",
     "section": "Submitted Manuscripts",
-    "text": "Submitted Manuscripts\n\nA.E. Mullan, P.D.A. Nguyen, S.C. Lotspeich, “Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,”” Statistics and Public Policy (under review), 2025+.  Preprint - Software"
+    "text": "Submitted Manuscripts\n\nA.E. Mullan, P.D.A. Nguyen, S.C. Lotspeich, “Linking Potentially Misclassified Healthy Food Access to Diabetes Prevalence,” Statistics and Public Policy (under review), 2025+.  Preprint - Software"
   },
   {
     "objectID": "blog/posts/reference/index.html#an-ode-to-being-a-really-forgetful-person",
@@ -383,5 +383,19 @@
     "title": "Do it for the plot!",
     "section": "🔧 This is a surprise tool that’ll help us later!",
     "text": "🔧 This is a surprise tool that’ll help us later!"
+  },
+  {
+    "objectID": "papers/index.html#professional",
+    "href": "papers/index.html#professional",
+    "title": "Publications & Media",
+    "section": "Professional",
+    "text": "Professional\n\nA.E. Mullan, “For better or for worse: The “kiss effect” on television ratings,” Significance, Volume 22, Issue 6-7, pp. 30-33, 2025.  Article"
+  },
+  {
+    "objectID": "papers/index.html#media",
+    "href": "papers/index.html#media",
+    "title": "Publications & Media",
+    "section": "Media",
+    "text": "Media\n\nThe Classic “Will They, or Won’t They?” and the Kiss Effect | Stats + Stories Episode 381 | February 12, 2026  Podcast Episode"
   }
 ]
