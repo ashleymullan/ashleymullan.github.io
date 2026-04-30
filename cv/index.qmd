@@ -17,7 +17,7 @@ cv:
     padding-bottom: 129%;
     height: 0;
     overflow: hidden;
-    max-width: 100%;
+    max-width: 130%;
 }
 .embed-container iframe,
 .embed-container object,
@@ -25,7 +25,7 @@ cv:
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 130%;
     height: 100%;
 }
 ```
