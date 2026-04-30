@@ -122,4 +122,9 @@ $btn-code-copy-color-active: $orange !default;
             flex: 1 1 33%;
         }
     }
+
+    @font-face {
+  	font-family: "ash-handwriting";
+  	src: url("ash-handwriting.ttf");
+    }
 }
