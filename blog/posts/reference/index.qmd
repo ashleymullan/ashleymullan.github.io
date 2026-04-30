@@ -14,17 +14,17 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 
 ## Links, links, and more links! 🔗
 
-### Some Handy Definitions
+### Some handy definitions
 
 1. [The Catalogue of Bias](https://catalogofbias.org/)
 
-### For New R Converts
+### For new R converts
 1. [Swirl](https://swirlstats.com/)
 2. [DiscovR](https://www.discovr.rocks/discovr/)
 3. [TinyStats](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html)
 4. [R4DS](https://r4ds.hadley.nz/)
 
-### For Tech Enthusiasts Only
+### For tech enthusiasts only
 1. [Posit's Cheat Sheets](https://posit.co/resources/cheatsheets/)
 2. [ScrollyTell](https://github.com/mschnetzer/scrollytell_arbeitszeit)
 3. [Annotating Quarto Code](https://www.productive-r-workflow.com/quarto-tricks#code-annotation)
@@ -35,10 +35,14 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 8. [Writing R Packages](https://github.com/jacobbien/litr-project)
 9. [The R Inferno](https://burns-stat.com/pages/Tutor/R_inferno.pdf)
 
-### Methods Tutorials I've Found Useful
+### Honestly, ggplot2 deserves its own category
+1. [Five ggplot tricks Nicola Rennie wishes she knew earlier](https://nrennie.rbind.io/blog/five-ggplot2-functions/)
+2. [How Cedric Scherer levels up his ggplots](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
+
+### Methods tutorials I've found useful
 1. [Linear Mixed Modeling](https://www.crumplab.com/psyc7709_2019/book/docs/a-tutorial-for-using-the-lme-function-from-the-nlme-package-.html)
 
-### Data, Data, and More Data
+### Data, data, and more data
 1. [General Social Survey](https://gss.norc.org/us/en/gss/get-the-data.html)
 2. [Kaggle](https://www.kaggle.com/datasets)
 3. [UC Irvine Repo](https://archive.ics.uci.edu/)
@@ -48,17 +52,17 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 7. [DataSetsVerse Package (thanks to Andres Renzo Caceres Rossi)](https://lightbluetitan.github.io/datasetsverse/)
 8. [DiversityDataKids](https://data.diversitydatakids.org/dataset?_ga=2.154954488.1380410099.1753206254-721008382.1753206254)
 
-### Some Professional Advice and Opportunities
+### Some professional advice and opportunities
 1. [ASA Postdoc Association](https://asapostdocs.org/)
 2. [ENAR CENS (Council for Emerging and New Statisticians)](https://cens-enar.github.io/cens_website/)
 
-### Funding Opportunities for Early Career Folks
+### Funding opportunities for early career folks
 1. [ASA Early Career Travel Fund](https://www.amstat.org/your-career/awards/student-and-early-career-travel-fund)
-2. [ENAR Fostering Diversity Grant](https://www.enar.org/meetings/FosteringDiversity/)
+2. [ENAR Fostering Excellence Grant](https://www.enar.org/index.cfm)
 3. [A Collection of Conference Travel Grants](https://docs.google.com/document/d/1RvWdHQL-15LJW6uYVNNQoa5bM4DenbggqEF7JIXPacI/edit?usp=sharing)
 
 
-### Some Miscellaneous Items
+### Some miscellaneous items
 1. [Paul's Online Math Notes: Everything You Ever Needed in Calculus](https://tutorial.math.lamar.edu/)
 
 
