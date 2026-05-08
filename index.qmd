@@ -12,6 +12,8 @@ about:
     - icon: github
       text: GitHub
       href: "https://github.com/ashleymullan"
+    - text: "{{< iconify simple-icons:orcid>}} ORCID"
+      href: "https://orcid.org/0009-0009-7838-3527"
     - icon: linkedin
       text: LinkedIn
       href: "https://www.linkedin.com/in/ashley-mullan-b478b6168"

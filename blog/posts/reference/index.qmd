@@ -34,6 +34,7 @@ My bookmarks bar and folder of saved Tweets are graveyards full of wonderful res
 7. [Gorgeous R Tables](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r)
 8. [Writing R Packages](https://github.com/jacobbien/litr-project)
 9. [The R Inferno](https://burns-stat.com/pages/Tutor/R_inferno.pdf)
+10. [Tom Mock's Advanced GT Cookbook](https://themockup.blog/static/resources/gt-cookbook-advanced.html)
 
 ### Honestly, ggplot2 deserves its own category
 1. [Five ggplot tricks Nicola Rennie wishes she knew earlier](https://nrennie.rbind.io/blog/five-ggplot2-functions/)

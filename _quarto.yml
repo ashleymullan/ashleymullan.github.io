@@ -34,6 +34,8 @@ website:
         href: "https://bsky.app/profile/ashleymullan.bsky.social"
       - icon: github
         href: "https://github.com/ashleymullan"
+      - text: "{{<iconify simple-icons:orcid>}}"
+        href: "https://orcid.org/0009-0009-7838-3527"
       - icon: linkedin
         href: "https://www.linkedin.com/in/ashley-mullan-b478b6168"
       - icon: envelope
