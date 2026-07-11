@@ -12,7 +12,9 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ## Coming Soon to Theaters
 
-Check back soon for updates!
+1. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
+*Women in Statistics and Data Science Conference* - *October 2026* </br>
+<span style="color:#cc00cc;"> Slides </span>
 
 ## Highlight Reel
 
@@ -20,11 +22,15 @@ Check back soon for updates!
 
 ### 2026
 
-1. **Contributed Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+1. **Breakout Talk**: Revise and Resubmit - Tailoring AI-Led Analyses for </br> Joy and Data Discovery </br>
+*Electronic Conference on Teaching Statistics* - *June 2026* </br>
+[Slides](materials/ecots-2026.pdf) </span> <span style="color:gray;">  (jointly presented with L. Samuels, D. Shi, S. Young, and N. Zhou) </span>
+
+2. **Contributed Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *ENAR Spring Meeting* - *March 2026* </br>
 [Slides](materials/enar_26_slides.pdf)
 
-2. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
+3. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
 [Slides](materials/ssmv_2026.pdf) 
 
 ### 2025 
@@ -40,7 +46,8 @@ Check back soon for updates!
 3. **Invited Talk**: Modeling Misclassification: Exploring the Relationship  </br> between Diabetes and Access to Healthy Food </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
 [Slides](materials/IDWSDS-25-food.pdf) <!-- - [Recording]() -->
 
-4. **Contributed Talk**: A Two-Pronged Approach for Identifying and Addressing Problematic Psychotropic Overprescription Patterns </br>
+4. **Contributed Talk**: A Two-Pronged Approach for Identifying and Addressing </br>
+Problematic Psychotropic Overprescription Patterns </br>
 in the Child Welfare System </br>
 *Transformational Collaborative Outcomes Management Conference* </br> 
 *October 2025* </br>
