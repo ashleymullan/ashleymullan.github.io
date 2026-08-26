@@ -12,15 +12,42 @@ What, like it's hardware? No, it's software! Click on the hexes to learn more.
 
 #### visegen
 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
 The `visegen` R package (in progress) is based on work by Nick Micheletti and visualizes cost-effectiveness curves constructed with second-generation p-values.
 
- <img src="visegen.png" style="height: 50%; width: 50%; margin: auto; display: block; object-fit: fill" onclick="window.open('https://github.com/ashleymullan/visegen', 'blank');"/> 
+:::
+
+::: {.column width="50%"}
+
+ <img src="visegen.png" style="height: 25%; width: 25%; margin: auto; display: block; object-fit: fill" onclick="window.open('https://github.com/ashleymullan/visegen', 'blank');"/> 
+ 
+:::
+
+::::
+
+
  
 #### wickedplyr
- 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
 The `wickedplyr` R package (in progress, jointly written with Hannah Klinger) was inspired by [genzplyr](https://github.com/hadley/genzplyr) and [boomerplyr](https://bradlindblad.github.io/boomerplyr/) and overwrites `dplyr` functions with Wicked-themed names.
 
- <img src="wickedplyr.png" style="height: 50%; margin: auto; display: block; width: 50%; object-fit: fill" onclick="window.open('https://github.com/ashleymullan/wickedplyr', 'blank');"/> 
+:::
+
+::: {.column width="50%"}
+
+ <img src="wickedplyr.png" style="height: 25%; margin: auto; display: block; width: 25%; object-fit: fill" onclick="window.open('https://github.com/ashleymullan/wickedplyr', 'blank');"/> 
+ 
+:::
+
+::::
  
 :::
 
@@ -31,16 +58,42 @@ The `wickedplyr` R package (in progress, jointly written with Hannah Klinger) wa
 
 #### possum
 
+:::: {.columns}
+
+::: {.column width="50%"}
+
 Along with other fun tools for not-so-perfect count outcomes, the maximum likelihood estimator for Poisson regression (with a misclassified covariate) that I derived during my master's thesis lives in the `possum` R package!
 
- <img src="possum.png" style="height: 50%; width: 50%; margin: auto; display: block; object-fit: fill" onclick="window.open('https://github.com/sarahlotspeich/possum', 'blank');"/> 
+:::
+
+::: {.column width="50%"}
+
+ <img src="possum.png" style="height: 25%; width: 25%; margin: auto; display: block; object-fit: fill" onclick="window.open('https://github.com/sarahlotspeich/possum', 'blank');"/> 
  
+:::
+
+::::
+
+
 #### ThemePark
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
 
 Along with other cool ways to jazz up your ggplot, my *The Tortured Poets Department* ggplot theme lives in the ThemePark R package.
 
- <img src="themePark.png" style="height: 50%; width: 50%; margin: auto; display: block; object-fit: fill" onclick="window.open('https://github.com/MatthewBJane/ThemePark', 'blank');"/> 
+:::
+
+::: {.column width="50%"}
+
+ <img src="themePark.png" style="height: 25%; width: 25%; margin: auto; display: block; object-fit: fill" onclick="window.open('https://github.com/MatthewBJane/ThemePark', 'blank');"/> 
  
+:::
+
+::::
+
 :::
 
 
