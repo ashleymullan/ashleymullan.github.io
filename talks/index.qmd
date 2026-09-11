@@ -12,9 +12,22 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ## Coming Soon to Theaters
 
-1. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
+1. **Guest Lecture**: Murphy's Law: The Biostatistician's Version </br>
+*Auburn University, Department of Biology* - *September 2026* </br> 
+[Slides](materials/auburn-guest.pdf)
+
+2. **Invited Talk**: A Focused First Impression </br>
+*International Day of Women in Statistics and Data Science* - *October 2026* </br>
+<span style="color:#cc00cc;"> Slides </span>
+
+3. **Contributed Talk**: Lightening the Load: Tennessee’s Approach to Equitable Workload Distribution </br>
+*Transformational Collaborative Outcomes Management Conference* - *October 2026* </br>
+<span style="color:#cc00cc;"> Slides </span> <span style="color:gray;"> (jointly presented with T. Kuhn) </span>
+
+4. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
 *Women in Statistics and Data Science Conference* - *October 2026* </br>
 <span style="color:#cc00cc;"> Slides </span>
+
 
 ## Highlight Reel
 
