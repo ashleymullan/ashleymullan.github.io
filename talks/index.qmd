@@ -6,25 +6,24 @@ What do you get when you cross a chatterbox and a scientist? A whole lot of talk
 
 Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (bio)stats to the conversation. Here are some of my recent and upcoming talks and presentations. Materials are available either by clicking on the links in the entries or the GIF wall!
 
+If you're here looking for an upcoming talk or I sent you here while I'm giving a talk, check the "Coming Soon" section. </br>
+If you're here looking for a past talk, check the "Highlight Reel" section.
+
 :::: {.columns}
 
 ::: {.column width="78%"}
 
 ## Coming Soon to Theaters
 
-1. **Guest Lecture**: Murphy's Law: The Biostatistician's Version </br>
-*Auburn University, Department of Biology* - *September 2026* </br> 
-[Slides](materials/auburn-guest.pdf)
-
-2. **Invited Talk**: A Focused First Impression </br>
+1. **Invited Talk**: A Focused First Impression </br>
 *International Day of Women in Statistics and Data Science* - *October 2026* </br>
 <span style="color:#cc00cc;"> Slides </span>
 
-3. **Contributed Talk**: Lightening the Load: Tennessee’s Approach to Equitable Workload Distribution </br>
+2. **Contributed Talk**: Lightening the Load: Tennessee’s Approach to Equitable Workload Distribution </br>
 *Transformational Collaborative Outcomes Management Conference* - *October 2026* </br>
 <span style="color:#cc00cc;"> Slides </span> <span style="color:gray;"> (jointly presented with T. Kuhn) </span>
 
-4. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
+3. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
 *Women in Statistics and Data Science Conference* - *October 2026* </br>
 <span style="color:#cc00cc;"> Slides </span>
 
@@ -35,15 +34,19 @@ Whether I'm in a classroom, conference, or corporate meeting, I 💖 bringing (b
 
 ### 2026
 
-1. **Breakout Talk**: Revise and Resubmit - Tailoring AI-Led Analyses for </br> Joy and Data Discovery </br>
+1. **Guest Lecture**: Murphy's Law: The Biostatistician's Version </br>
+*Auburn University, Department of Biology* - *September 2026* </br> 
+[Slides](materials/auburn-guest.pdf)
+
+2. **Breakout Talk**: Revise and Resubmit - Tailoring AI-Led Analyses for </br> Joy and Data Discovery </br>
 *Electronic Conference on Teaching Statistics* - *June 2026* </br>
 [Slides](materials/ecots-2026.pdf) </span> <span style="color:gray;">  (jointly presented with L. Samuels, D. Shi, S. Young, and N. Zhou) </span>
 
-2. **Contributed Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+3. **Contributed Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *ENAR Spring Meeting* - *March 2026* </br>
 [Slides](materials/enar_26_slides.pdf)
 
-3. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
+4. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
 [Slides](materials/ssmv_2026.pdf) 
 
 ### 2025 
@@ -153,6 +156,10 @@ Healthy Food Access </br> *Department of Mathematics, University of Scranton* - 
 ::: {.column width="20%"}
 
 ### GIFs Galore!
+  
+   <a href="materials/auburn-guest.pdf">
+   <img src="materials/auburn-guest.gif" width="200" height="100">
+</a>
 
   <a href="materials/day-of-disc.pdf">
    <img src="materials/day-of-disc-gif.gif" width="200" height="100">
