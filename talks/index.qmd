@@ -15,15 +15,19 @@ If you're here looking for a past talk, check the "Highlight Reel" section.
 
 ## Coming Soon to Theaters
 
-1. **Invited Talk**: A Focused First Impression </br>
+1. **Journal Club Talk**: Tech-ing Your Website to the Next Level </br>
+*Vanderbilt Biostatistics Graduate Student Association* - *September 2026* </br>
+[Slides](materials/vandy-journal-club-2026.pdf)
+
+2. **Invited Talk**: A Focused First Impression </br>
 *International Day of Women in Statistics and Data Science* - *October 2026* </br>
 <span style="color:#cc00cc;"> Slides </span>
 
-2. **Contributed Talk**: Lightening the Load: Tennessee’s Approach to Equitable Workload Distribution </br>
+3. **Contributed Talk**: Lightening the Load: Tennessee’s Approach to Equitable Workload Distribution </br>
 *Transformational Collaborative Outcomes Management Conference* - *October 2026* </br>
 <span style="color:#cc00cc;"> Slides </span> <span style="color:gray;"> (jointly presented with T. Kuhn) </span>
 
-3. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
+4. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
 *Women in Statistics and Data Science Conference* - *October 2026* </br>
 <span style="color:#cc00cc;"> Slides </span>
 
@@ -156,7 +160,11 @@ Healthy Food Access </br> *Department of Mathematics, University of Scranton* - 
 ::: {.column width="20%"}
 
 ### GIFs Galore!
-  
+
+  <a href="materials/vandy-journal-club-2026.pdf">
+   <img src="materials/vandy-journal-club-2026.gif" width="200" height="100">
+</a>
+
    <a href="materials/auburn-guest.pdf">
    <img src="materials/auburn-guest.gif" width="200" height="100">
 </a>
