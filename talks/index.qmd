@@ -34,7 +34,7 @@ If you're here looking for a past talk, check the "Highlight Reel" section.
 
 ### 2026
 
-1. 1. **Journal Club Talk**: Tech-ing Your Website to the Next Level </br>
+1. **Journal Club Talk**: Tech-ing Your Website to the Next Level </br>
 *Vanderbilt Biostatistics Graduate Student Association* - *September 2026* </br>
 [Slides](materials/vandy-journal-club-2026.pdf)
 
