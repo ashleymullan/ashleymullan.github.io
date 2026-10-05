@@ -17,7 +17,7 @@ If you're here looking for a past talk, check the "Highlight Reel" section.
 
 1. **Invited Talk**: A Focused First Impression </br>
 *International Day of Women in Statistics and Data Science* - *October 2026* </br>
-<span style="color:#cc00cc;"> Slides </span>
+[Slides](materials/IDWSDS-26-teaching.pdf)
 
 2. **Contributed Talk**: Lightening the Load: Tennessee’s Approach to Equitable Workload Distribution </br>
 *Transformational Collaborative Outcomes Management Conference* - *October 2026* </br>
