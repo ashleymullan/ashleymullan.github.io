@@ -15,15 +15,7 @@ If you're here looking for a past talk, check the "Highlight Reel" section.
 
 ## Coming Soon to Theaters
 
-1. **Invited Talk**: A Focused First Impression </br>
-*International Day of Women in Statistics and Data Science* - *October 2026* </br>
-[Slides](materials/IDWSDS-26-teaching.pdf)
-
-2. **Contributed Talk**: Lightening the Load: Tennessee’s Approach to Equitable Workload Distribution </br>
-*Transformational Collaborative Outcomes Management Conference* - *October 2026* </br>
-<span style="color:#cc00cc;"> Slides </span> <span style="color:gray;"> (jointly presented with T. Kuhn) </span>
-
-3. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
+1. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
 *Women in Statistics and Data Science Conference* - *October 2026* </br>
 <span style="color:#cc00cc;"> Slides </span>
 
@@ -34,23 +26,31 @@ If you're here looking for a past talk, check the "Highlight Reel" section.
 
 ### 2026
 
-1. **Journal Club Talk**: Tech-ing Your Website to the Next Level </br>
+1. **Invited Talk**: A Focused First Impression </br>
+*International Day of Women in Statistics and Data Science* - *October 2026* </br>
+[Slides](materials/IDWSDS-26-teaching.pdf)
+
+2. **Breakout Session**: Lightening the Load: Tennessee’s Approach to Equitable Workload Distribution </br>
+*Transformational Collaborative Outcomes Management Conference* - *October 2026* </br>
+<span style="color:#cc00cc;"> Slides </span> <span style="color:gray;"> (jointly presented with T. Kuhn) </span>
+
+3. **Journal Club Talk**: Tech-ing Your Website to the Next Level </br>
 *Vanderbilt Biostatistics Graduate Student Association* - *September 2026* </br>
 [Slides](materials/vandy-journal-club-2026.pdf)
 
-2. **Guest Lecture**: Murphy's Law: The Biostatistician's Version </br>
+4. **Guest Lecture**: Murphy's Law: The Biostatistician's Version </br>
 *Auburn University, Department of Biology* - *September 2026* </br> 
 [Slides](materials/auburn-guest.pdf)
 
-3. **Breakout Talk**: Revise and Resubmit - Tailoring AI-Led Analyses for </br> Joy and Data Discovery </br>
+5. **Breakout Talk**: Revise and Resubmit - Tailoring AI-Led Analyses for </br> Joy and Data Discovery </br>
 *Electronic Conference on Teaching Statistics* - *June 2026* </br>
 [Slides](materials/ecots-2026.pdf) </span> <span style="color:gray;">  (jointly presented with L. Samuels, D. Shi, S. Young, and N. Zhou) </span>
 
-4. **Contributed Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
+6. **Contributed Talk**: Linking Potentially Misclassified Healthy </br> Food Access to Diabetes Prevalence </br>
 *ENAR Spring Meeting* - *March 2026* </br>
 [Slides](materials/enar_26_slides.pdf)
 
-5. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
+7. **Guest Lecture**: From Idea to Conclusion: A Statistical Perspective </br> *School of Science and Mathematics, Vanderbilt University* </br> *March 2026* </br>
 [Slides](materials/ssmv_2026.pdf) 
 
 ### 2025 
@@ -66,7 +66,7 @@ If you're here looking for a past talk, check the "Highlight Reel" section.
 3. **Invited Talk**: Modeling Misclassification: Exploring the Relationship  </br> between Diabetes and Access to Healthy Food </br> *International Day of Women in Statistics and Data Science* - *October 2025* </br>
 [Slides](materials/IDWSDS-25-food.pdf) <!-- - [Recording]() -->
 
-4. **Contributed Talk**: A Two-Pronged Approach for Identifying and Addressing </br>
+4. **Breakout Session**: A Two-Pronged Approach for Identifying and Addressing </br>
 Problematic Psychotropic Overprescription Patterns </br>
 in the Child Welfare System </br>
 *Transformational Collaborative Outcomes Management Conference* </br> 
