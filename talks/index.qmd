@@ -17,7 +17,7 @@ If you're here looking for a past talk, check the "Highlight Reel" section.
 
 1. **Invited Talk**: Seize the Data: Around the World of Statistics in Five Days </br>
 *Women in Statistics and Data Science Conference* - *October 2026* </br>
-<span style="color:#cc00cc;"> Slides </span>
+[Slides](materials/wsds-26-ed.pdf)
 
 
 ## Highlight Reel
